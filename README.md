@@ -1,7 +1,4 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 Sistem Pakar Penentuan UKT berbasis Machine Learning - Decision Tree
 
 Description of the app ...
 
