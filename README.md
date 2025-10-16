@@ -17,7 +17,18 @@ Repositori ini berisi proyek penelitian metodologis untuk membangun sistem pakar
 ---
 
 ## 📂 Struktur Folder
-
+sistem-pakar-ukt-ml/
+├── data/
+│ └── dummy_data_ukt_1000.csv
+├── models/
+│ └── model_pipeline.joblib
+├── notebooks/
+│ └── exploratory_analysis.ipynb
+├── app_streamlit.py
+├── train_model.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ## Demo App
 
