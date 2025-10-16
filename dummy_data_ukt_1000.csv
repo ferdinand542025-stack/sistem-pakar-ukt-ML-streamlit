@@ -1,0 +1,1001 @@
+ID_Mahasiswa,Pendapatan_Ortu,Tanggungan_Keluarga,Pekerjaan_Ortu,Kepemilikan_Rumah,Tagihan_Listrik,Kendaraan,Nilai_IPK,Beasiswa,Kategori_UKT
+M0001,16594478,6,Petani,Kontrak,534282,Motor,3.82,Tidak,UKT 6
+M0002,13815092,2,Swasta,Menumpang,510014,Motor,3.57,Tidak,UKT 6
+M0003,2734489,4,Swasta,Menumpang,497415,Tidak Ada,2.97,Tidak,UKT 1
+M0004,15086186,2,Wiraswasta,Milik Sendiri,567039,Motor,3.89,Tidak,UKT 6
+M0005,10128519,5,Petani,Rumah Dinas,571396,Motor,2.11,Tidak,UKT 4
+M0006,11026850,1,Swasta,Rumah Dinas,155686,Motor+Mobil,3.86,Tidak,UKT 6
+M0007,7904852,1,PNS,Kontrak,662439,Motor,2.1,Tidak,UKT 4
+M0008,5481505,4,Swasta,Menumpang,315471,Motor,3.09,Ya,UKT 2
+M0009,14453367,1,Swasta,Milik Sendiri,694606,Motor,3.78,Tidak,UKT 6
+M0010,19044107,1,Swasta,Milik Sendiri,537602,Mobil,2.53,Tidak,UKT 6
+M0011,5021373,4,Petani,Menumpang,690233,Motor,2.94,Ya,UKT 2
+M0012,6519877,6,Petani,Milik Sendiri,263456,Motor,2.65,Tidak,UKT 2
+M0013,3844769,6,Petani,Rumah Dinas,358974,Motor+Mobil,3.9,Tidak,UKT 1
+M0014,9680351,4,Wiraswasta,Menumpang,102446,Tidak Ada,3.65,Tidak,UKT 4
+M0015,603355,5,Wiraswasta,Milik Sendiri,458376,Mobil,3.42,Ya,UKT 1
+M0016,16464436,1,Wiraswasta,Menumpang,477214,Tidak Ada,3.18,Tidak,UKT 6
+M0017,1762752,1,Tidak Bekerja,Milik Sendiri,190148,Mobil,3.64,Tidak,UKT 1
+M0018,10284633,5,PNS,Kontrak,643629,Motor,2.78,Tidak,UKT 4
+M0019,6164789,6,PNS,Kontrak,81085,Motor,2.9,Tidak,UKT 2
+M0020,10195979,3,PNS,Menumpang,367715,Mobil,3.46,Tidak,UKT 5
+M0021,9805648,3,Petani,Milik Sendiri,457931,Tidak Ada,2.72,Tidak,UKT 5
+M0022,6243066,3,Wiraswasta,Milik Sendiri,574006,Motor,2.13,Ya,UKT 2
+M0023,11142490,6,Swasta,Kontrak,440452,Motor,2.15,Tidak,UKT 5
+M0024,6613790,6,Tidak Bekerja,Kontrak,55750,Motor,2.23,Tidak,UKT 2
+M0025,13737723,5,PNS,Kontrak,390912,Motor,3.74,Tidak,UKT 6
+M0026,13148637,1,Tidak Bekerja,Milik Sendiri,561760,Tidak Ada,2.94,Tidak,UKT 6
+M0027,17361870,5,Swasta,Milik Sendiri,85903,Tidak Ada,3.43,Ya,UKT 6
+M0028,5647581,5,PNS,Milik Sendiri,253561,Tidak Ada,2.79,Ya,UKT 2
+M0029,19231570,6,Swasta,Rumah Dinas,665324,Tidak Ada,2.52,Tidak,UKT 6
+M0030,2928388,3,Swasta,Milik Sendiri,662242,Motor,2.69,Tidak,UKT 1
+M0031,3163046,2,Swasta,Milik Sendiri,562493,Mobil,3.59,Tidak,UKT 2
+M0032,11459014,1,Swasta,Menumpang,477530,Motor+Mobil,3.25,Tidak,UKT 6
+M0033,15846051,6,Wiraswasta,Milik Sendiri,491441,Mobil,3.88,Ya,UKT 6
+M0034,3885357,3,Petani,Menumpang,478395,Tidak Ada,3.36,Tidak,UKT 2
+M0035,16433681,2,Swasta,Kontrak,691593,Motor,3.14,Tidak,UKT 6
+M0036,11684121,2,Petani,Rumah Dinas,555633,Tidak Ada,3.22,Tidak,UKT 6
+M0037,1965689,6,Wiraswasta,Milik Sendiri,468554,Motor,3.88,Tidak,UKT 1
+M0038,17345364,4,Swasta,Milik Sendiri,535651,Motor,3.58,Tidak,UKT 6
+M0039,19102881,1,Swasta,Kontrak,250753,Tidak Ada,2.05,Tidak,UKT 6
+M0040,11892366,2,PNS,Rumah Dinas,82101,Motor,3.07,Tidak,UKT 6
+M0041,15858907,6,PNS,Kontrak,52775,Motor+Mobil,3.38,Tidak,UKT 6
+M0042,3169995,6,Petani,Milik Sendiri,685785,Motor,3.5,Tidak,UKT 1
+M0043,13339420,3,PNS,Rumah Dinas,540399,Motor,2.43,Ya,UKT 6
+M0044,13979854,4,Petani,Rumah Dinas,95619,Tidak Ada,3.73,Ya,UKT 6
+M0045,6897986,1,Wiraswasta,Kontrak,302388,Motor,3.91,Ya,UKT 3
+M0046,13687277,5,PNS,Rumah Dinas,462755,Mobil,2.47,Tidak,UKT 6
+M0047,2370928,3,Petani,Rumah Dinas,115149,Tidak Ada,3.77,Tidak,UKT 1
+M0048,4655299,2,Swasta,Kontrak,76616,Motor,2.19,Tidak,UKT 2
+M0049,11446097,2,Tidak Bekerja,Milik Sendiri,235639,Tidak Ada,2.11,Tidak,UKT 6
+M0050,14591261,3,Swasta,Milik Sendiri,256903,Motor,2.26,Tidak,UKT 6
+M0051,19582629,6,Wiraswasta,Milik Sendiri,281318,Tidak Ada,2.12,Tidak,UKT 6
+M0052,771836,2,Petani,Milik Sendiri,402365,Mobil,3.69,Ya,UKT 1
+M0053,4084702,4,PNS,Milik Sendiri,337623,Mobil,2.12,Tidak,UKT 2
+M0054,7781369,1,Petani,Milik Sendiri,411309,Mobil,2.54,Tidak,UKT 4
+M0055,19576651,4,Tidak Bekerja,Milik Sendiri,105863,Motor,2.21,Tidak,UKT 6
+M0056,9085377,2,Petani,Milik Sendiri,223115,Mobil,2.59,Tidak,UKT 5
+M0057,19935721,5,Wiraswasta,Rumah Dinas,545654,Motor,2.18,Tidak,UKT 6
+M0058,18548957,1,Wiraswasta,Menumpang,553323,Motor,3.34,Tidak,UKT 6
+M0059,18324013,1,Swasta,Milik Sendiri,458624,Motor,2.27,Tidak,UKT 6
+M0060,3547262,3,Swasta,Menumpang,328495,Tidak Ada,3.7,Tidak,UKT 2
+M0061,11473639,3,Petani,Kontrak,185203,Tidak Ada,3.63,Ya,UKT 5
+M0062,1064685,5,Swasta,Milik Sendiri,297908,Mobil,2.03,Tidak,UKT 1
+M0063,3379190,6,Wiraswasta,Milik Sendiri,242003,Motor,3.79,Tidak,UKT 1
+M0064,1507293,1,Tidak Bekerja,Kontrak,547599,Motor,2.06,Ya,UKT 1
+M0065,3866612,5,Swasta,Rumah Dinas,324597,Motor,2.48,Tidak,UKT 1
+M0066,3204238,3,Swasta,Kontrak,651982,Mobil,2.06,Tidak,UKT 1
+M0067,3130708,3,Wiraswasta,Milik Sendiri,590023,Motor+Mobil,2.67,Tidak,UKT 1
+M0068,3994679,1,Swasta,Milik Sendiri,619354,Mobil,3.03,Tidak,UKT 2
+M0069,19044856,4,Wiraswasta,Milik Sendiri,184445,Motor,3.59,Tidak,UKT 6
+M0070,16106139,2,Swasta,Milik Sendiri,453551,Tidak Ada,2.68,Tidak,UKT 6
+M0071,11502348,3,Petani,Milik Sendiri,619829,Motor,3.41,Ya,UKT 5
+M0072,1785160,6,PNS,Milik Sendiri,215129,Tidak Ada,2.38,Ya,UKT 1
+M0073,5673036,6,Petani,Rumah Dinas,641271,Tidak Ada,3.5,Ya,UKT 1
+M0074,18702688,3,Swasta,Menumpang,203837,Motor,2.47,Tidak,UKT 6
+M0075,548984,4,Petani,Milik Sendiri,227597,Motor,2.29,Tidak,UKT 1
+M0076,11288678,4,PNS,Menumpang,462736,Motor+Mobil,2.37,Tidak,UKT 5
+M0077,7056168,5,Wiraswasta,Milik Sendiri,528454,Motor,2.36,Tidak,UKT 3
+M0078,18781600,6,Wiraswasta,Milik Sendiri,495150,Motor,3.03,Tidak,UKT 6
+M0079,15116555,5,Swasta,Milik Sendiri,337710,Tidak Ada,3.69,Tidak,UKT 6
+M0080,19508135,6,PNS,Kontrak,546440,Motor+Mobil,2.16,Tidak,UKT 6
+M0081,13219242,2,PNS,Menumpang,473350,Mobil,3.41,Tidak,UKT 6
+M0082,15660818,2,Petani,Kontrak,453561,Mobil,3.31,Tidak,UKT 6
+M0083,16530288,1,Petani,Milik Sendiri,695303,Motor+Mobil,3.75,Tidak,UKT 6
+M0084,2237095,5,Petani,Kontrak,222257,Motor,2.49,Tidak,UKT 1
+M0085,10999746,3,Swasta,Milik Sendiri,274021,Motor,2.9,Tidak,UKT 5
+M0086,5280450,5,Swasta,Menumpang,645032,Motor,3.85,Ya,UKT 1
+M0087,19387034,3,Petani,Kontrak,345599,Motor,3.32,Tidak,UKT 6
+M0088,16529444,4,Swasta,Milik Sendiri,558433,Motor,2.78,Tidak,UKT 6
+M0089,19509001,5,Tidak Bekerja,Kontrak,366363,Motor,2.26,Tidak,UKT 6
+M0090,11836697,4,PNS,Kontrak,647904,Motor+Mobil,2.52,Tidak,UKT 5
+M0091,4353339,2,Petani,Milik Sendiri,661726,Motor+Mobil,3.16,Tidak,UKT 2
+M0092,16513446,2,Swasta,Kontrak,166841,Mobil,3.44,Tidak,UKT 6
+M0093,18273323,1,Swasta,Milik Sendiri,219934,Mobil,2.25,Tidak,UKT 6
+M0094,12410049,5,Wiraswasta,Kontrak,633158,Motor,3.2,Tidak,UKT 5
+M0095,7630144,4,Petani,Rumah Dinas,136694,Tidak Ada,3.1,Tidak,UKT 3
+M0096,5045583,3,Tidak Bekerja,Rumah Dinas,287068,Tidak Ada,3.03,Tidak,UKT 2
+M0097,16093974,2,PNS,Kontrak,151407,Motor,3.38,Tidak,UKT 6
+M0098,8488004,2,PNS,Kontrak,543960,Mobil,3.67,Tidak,UKT 4
+M0099,13572482,3,Wiraswasta,Milik Sendiri,605667,Tidak Ada,2.65,Ya,UKT 6
+M0100,6015989,4,Petani,Rumah Dinas,471594,Motor+Mobil,3.78,Tidak,UKT 3
+M0101,19398906,4,Swasta,Milik Sendiri,286500,Tidak Ada,2.32,Tidak,UKT 6
+M0102,15381728,5,PNS,Milik Sendiri,628641,Motor,2.35,Tidak,UKT 6
+M0103,991234,5,PNS,Milik Sendiri,261144,Motor,2.53,Ya,UKT 1
+M0104,10836868,6,Wiraswasta,Milik Sendiri,640270,Tidak Ada,2.24,Ya,UKT 4
+M0105,13222094,6,PNS,Kontrak,86683,Tidak Ada,2.46,Ya,UKT 5
+M0106,10409709,1,Swasta,Milik Sendiri,164091,Motor,2.21,Ya,UKT 5
+M0107,13266976,2,Swasta,Kontrak,167797,Mobil,3.64,Tidak,UKT 6
+M0108,13296932,5,Swasta,Milik Sendiri,460834,Motor,2.28,Tidak,UKT 6
+M0109,7414550,4,PNS,Milik Sendiri,580875,Motor,3.49,Tidak,UKT 3
+M0110,7406726,3,Petani,Kontrak,374934,Motor,2.1,Tidak,UKT 3
+M0111,6388794,4,PNS,Milik Sendiri,343624,Tidak Ada,3.9,Tidak,UKT 3
+M0112,7010425,2,Wiraswasta,Milik Sendiri,335713,Motor+Mobil,3.42,Tidak,UKT 4
+M0113,9011017,6,Swasta,Kontrak,514310,Tidak Ada,2.01,Tidak,UKT 4
+M0114,8387739,4,Petani,Milik Sendiri,240246,Motor+Mobil,3.53,Ya,UKT 3
+M0115,1269598,1,Wiraswasta,Rumah Dinas,619027,Motor,3.03,Tidak,UKT 1
+M0116,15952902,2,Petani,Milik Sendiri,607242,Motor+Mobil,3.56,Tidak,UKT 6
+M0117,8471379,6,Petani,Milik Sendiri,159373,Tidak Ada,3.04,Ya,UKT 3
+M0118,3831068,3,Swasta,Kontrak,608988,Motor,3.28,Tidak,UKT 2
+M0119,3756415,6,Swasta,Milik Sendiri,173728,Tidak Ada,3.57,Tidak,UKT 1
+M0120,1374371,1,Petani,Milik Sendiri,645333,Tidak Ada,2.81,Tidak,UKT 1
+M0121,6154237,2,Tidak Bekerja,Milik Sendiri,481058,Motor,2.01,Tidak,UKT 3
+M0122,12761606,3,Petani,Milik Sendiri,576169,Motor,3.7,Ya,UKT 6
+M0123,18250764,1,Petani,Rumah Dinas,438227,Motor,2.76,Tidak,UKT 6
+M0124,3844014,6,Wiraswasta,Milik Sendiri,138059,Tidak Ada,2.99,Tidak,UKT 1
+M0125,10102083,1,Swasta,Rumah Dinas,492136,Motor,2.02,Tidak,UKT 5
+M0126,3459034,2,PNS,Menumpang,683676,Mobil,2.98,Ya,UKT 1
+M0127,543585,5,Petani,Milik Sendiri,248303,Motor,3.97,Tidak,UKT 1
+M0128,15244108,1,Tidak Bekerja,Menumpang,561162,Motor,2.56,Tidak,UKT 6
+M0129,3039448,1,PNS,Milik Sendiri,523573,Motor,2.79,Tidak,UKT 2
+M0130,17386772,6,Petani,Menumpang,315406,Mobil,3.37,Tidak,UKT 6
+M0131,18852773,6,Swasta,Milik Sendiri,379125,Motor,3.63,Tidak,UKT 6
+M0132,15143995,3,Petani,Kontrak,131972,Motor,2.83,Tidak,UKT 6
+M0133,11011699,6,PNS,Milik Sendiri,387629,Motor+Mobil,2.62,Tidak,UKT 5
+M0134,8806461,4,Swasta,Milik Sendiri,104722,Mobil,3.88,Tidak,UKT 4
+M0135,2509021,2,Wiraswasta,Kontrak,231890,Motor,3.35,Tidak,UKT 1
+M0136,1701482,2,Swasta,Kontrak,319045,Motor,2.24,Ya,UKT 1
+M0137,17819551,5,Petani,Milik Sendiri,167473,Mobil,2.14,Ya,UKT 6
+M0138,12322585,5,Wiraswasta,Milik Sendiri,542239,Motor,2.97,Tidak,UKT 5
+M0139,2984413,2,Tidak Bekerja,Kontrak,320741,Tidak Ada,2.44,Tidak,UKT 1
+M0140,3407360,5,Swasta,Kontrak,441775,Tidak Ada,2.51,Tidak,UKT 1
+M0141,6395544,3,Swasta,Menumpang,573260,Mobil,3.76,Tidak,UKT 3
+M0142,2735000,6,PNS,Rumah Dinas,375437,Motor,2.18,Tidak,UKT 1
+M0143,4822252,2,Tidak Bekerja,Menumpang,206877,Mobil,3.43,Ya,UKT 2
+M0144,6322184,5,Tidak Bekerja,Kontrak,534895,Motor,2.54,Ya,UKT 2
+M0145,902690,2,Petani,Milik Sendiri,586162,Motor,3.52,Ya,UKT 1
+M0146,3048421,4,Wiraswasta,Milik Sendiri,493066,Tidak Ada,3.44,Tidak,UKT 1
+M0147,13104871,1,Petani,Rumah Dinas,384923,Tidak Ada,2.01,Tidak,UKT 6
+M0148,12695226,6,Petani,Kontrak,669696,Motor+Mobil,3.02,Ya,UKT 5
+M0149,14881704,2,PNS,Milik Sendiri,694894,Mobil,2.28,Tidak,UKT 6
+M0150,2454109,1,Wiraswasta,Milik Sendiri,170062,Motor,3.73,Ya,UKT 1
+M0151,14921668,5,PNS,Menumpang,62100,Motor,3.74,Tidak,UKT 6
+M0152,12001362,1,Wiraswasta,Kontrak,369165,Motor,2.84,Tidak,UKT 6
+M0153,16766473,6,Wiraswasta,Milik Sendiri,440270,Motor,2.89,Tidak,UKT 6
+M0154,7705547,2,Wiraswasta,Milik Sendiri,244472,Motor,2.61,Tidak,UKT 4
+M0155,8823735,4,PNS,Milik Sendiri,284196,Tidak Ada,3.43,Tidak,UKT 4
+M0156,18661466,5,Swasta,Milik Sendiri,257609,Motor,2.72,Tidak,UKT 6
+M0157,12914325,2,Swasta,Milik Sendiri,333006,Mobil,2.54,Tidak,UKT 6
+M0158,561087,6,Swasta,Milik Sendiri,323813,Motor+Mobil,2.86,Tidak,UKT 1
+M0159,14096255,5,PNS,Rumah Dinas,323022,Tidak Ada,2.18,Tidak,UKT 6
+M0160,15165175,3,Tidak Bekerja,Milik Sendiri,541121,Mobil,3.49,Tidak,UKT 6
+M0161,18773392,1,Petani,Rumah Dinas,254720,Motor,2.03,Tidak,UKT 6
+M0162,10774621,6,Swasta,Menumpang,615523,Motor,3.29,Tidak,UKT 4
+M0163,13522704,3,Swasta,Milik Sendiri,331075,Tidak Ada,2.37,Ya,UKT 6
+M0164,17316569,2,Swasta,Kontrak,142876,Motor,2.46,Tidak,UKT 6
+M0165,6984531,4,Petani,Milik Sendiri,574624,Motor,3.27,Tidak,UKT 3
+M0166,8154909,5,Petani,Menumpang,357680,Motor,3.99,Tidak,UKT 3
+M0167,4759622,1,Tidak Bekerja,Milik Sendiri,643792,Mobil,3.56,Tidak,UKT 3
+M0168,6225570,5,Swasta,Kontrak,673502,Mobil,2.45,Tidak,UKT 2
+M0169,17694096,2,Tidak Bekerja,Kontrak,232220,Motor,2.35,Tidak,UKT 6
+M0170,15921040,5,Wiraswasta,Milik Sendiri,163936,Motor+Mobil,3.73,Tidak,UKT 6
+M0171,5465050,1,Swasta,Milik Sendiri,66279,Motor,2.89,Tidak,UKT 3
+M0172,1313168,2,Tidak Bekerja,Kontrak,249737,Motor,2.27,Tidak,UKT 1
+M0173,725281,5,PNS,Kontrak,153751,Motor,3.72,Tidak,UKT 1
+M0174,12006305,4,Wiraswasta,Milik Sendiri,416577,Tidak Ada,3.63,Tidak,UKT 6
+M0175,8234102,6,Swasta,Kontrak,121386,Motor,3.97,Tidak,UKT 3
+M0176,6174719,2,Wiraswasta,Milik Sendiri,136124,Motor,3.82,Tidak,UKT 3
+M0177,9158144,6,Wiraswasta,Kontrak,417894,Tidak Ada,3.7,Ya,UKT 3
+M0178,7109280,2,Wiraswasta,Milik Sendiri,386199,Mobil,2.11,Tidak,UKT 4
+M0179,4872093,4,Wiraswasta,Menumpang,141911,Motor,2.21,Tidak,UKT 2
+M0180,18838945,6,Swasta,Milik Sendiri,520489,Motor,3.14,Tidak,UKT 6
+M0181,11111417,3,PNS,Milik Sendiri,497244,Tidak Ada,3.06,Ya,UKT 5
+M0182,5978047,1,Swasta,Milik Sendiri,271094,Motor,2.92,Tidak,UKT 3
+M0183,1619043,3,PNS,Milik Sendiri,426036,Motor,2.79,Ya,UKT 1
+M0184,12218070,5,Petani,Kontrak,287723,Mobil,2.86,Tidak,UKT 5
+M0185,16851434,4,Swasta,Milik Sendiri,383272,Motor,3.14,Ya,UKT 6
+M0186,11095511,3,Tidak Bekerja,Rumah Dinas,461324,Tidak Ada,2.0,Tidak,UKT 5
+M0187,14512538,2,Petani,Milik Sendiri,132806,Motor,2.52,Tidak,UKT 6
+M0188,7603230,5,Wiraswasta,Milik Sendiri,280097,Tidak Ada,3.04,Tidak,UKT 3
+M0189,3058231,5,PNS,Milik Sendiri,247478,Motor,3.44,Tidak,UKT 1
+M0190,7159908,3,Wiraswasta,Milik Sendiri,537436,Motor,2.35,Ya,UKT 3
+M0191,3580389,3,Tidak Bekerja,Milik Sendiri,361793,Motor+Mobil,3.09,Tidak,UKT 2
+M0192,2161909,4,Swasta,Milik Sendiri,539709,Tidak Ada,3.43,Tidak,UKT 1
+M0193,19933354,1,Petani,Milik Sendiri,487585,Motor,2.89,Tidak,UKT 6
+M0194,17387294,3,Wiraswasta,Milik Sendiri,282204,Tidak Ada,2.05,Tidak,UKT 6
+M0195,19192847,3,PNS,Kontrak,407546,Motor,2.9,Tidak,UKT 6
+M0196,6814127,6,Petani,Kontrak,490980,Motor,2.59,Ya,UKT 2
+M0197,10292712,2,Swasta,Milik Sendiri,231871,Motor+Mobil,3.86,Tidak,UKT 5
+M0198,2508187,6,PNS,Milik Sendiri,391558,Motor,2.25,Tidak,UKT 1
+M0199,2159066,6,Swasta,Menumpang,548512,Tidak Ada,3.3,Tidak,UKT 1
+M0200,2648815,5,PNS,Kontrak,405239,Motor,2.11,Tidak,UKT 1
+M0201,7855740,1,PNS,Kontrak,646595,Tidak Ada,2.89,Tidak,UKT 4
+M0202,6904003,2,PNS,Milik Sendiri,525278,Tidak Ada,3.11,Tidak,UKT 3
+M0203,4635314,4,Tidak Bekerja,Rumah Dinas,344067,Motor,2.6,Ya,UKT 1
+M0204,1410681,4,Petani,Rumah Dinas,429593,Tidak Ada,2.91,Tidak,UKT 1
+M0205,18884834,3,Tidak Bekerja,Kontrak,544955,Tidak Ada,2.33,Ya,UKT 6
+M0206,10921958,3,Swasta,Menumpang,285998,Mobil,2.61,Ya,UKT 5
+M0207,11200595,4,Swasta,Milik Sendiri,521604,Motor,3.24,Tidak,UKT 5
+M0208,13484808,3,Petani,Milik Sendiri,486607,Tidak Ada,2.6,Tidak,UKT 6
+M0209,15264960,1,Swasta,Rumah Dinas,696045,Motor,3.8,Tidak,UKT 6
+M0210,17348511,6,PNS,Rumah Dinas,627952,Motor,3.26,Ya,UKT 6
+M0211,9632582,3,Petani,Milik Sendiri,346629,Motor,2.88,Tidak,UKT 5
+M0212,8113287,5,Swasta,Milik Sendiri,309438,Motor,2.08,Tidak,UKT 3
+M0213,16885802,3,Petani,Milik Sendiri,200528,Tidak Ada,3.0,Tidak,UKT 6
+M0214,4112600,2,Petani,Milik Sendiri,518011,Motor,3.53,Tidak,UKT 2
+M0215,18103032,1,PNS,Rumah Dinas,347698,Motor,2.53,Tidak,UKT 6
+M0216,12605878,2,PNS,Kontrak,359066,Motor,3.61,Tidak,UKT 6
+M0217,10745534,2,Wiraswasta,Milik Sendiri,325553,Mobil,2.5,Tidak,UKT 5
+M0218,10547453,5,Swasta,Milik Sendiri,348783,Motor,3.65,Tidak,UKT 5
+M0219,2526793,1,PNS,Milik Sendiri,281182,Motor,2.17,Tidak,UKT 2
+M0220,1054594,1,Tidak Bekerja,Milik Sendiri,506843,Motor,3.73,Ya,UKT 1
+M0221,9036326,1,PNS,Kontrak,139037,Motor,3.0,Tidak,UKT 5
+M0222,16537627,1,Petani,Menumpang,238487,Tidak Ada,2.59,Tidak,UKT 6
+M0223,13728175,1,Tidak Bekerja,Rumah Dinas,68074,Tidak Ada,2.53,Ya,UKT 6
+M0224,2704664,5,Swasta,Milik Sendiri,342107,Mobil,2.86,Ya,UKT 1
+M0225,4841747,3,PNS,Menumpang,534672,Motor,4.0,Tidak,UKT 2
+M0226,13456528,2,PNS,Rumah Dinas,626553,Motor,2.44,Ya,UKT 6
+M0227,17964192,1,Swasta,Rumah Dinas,66061,Motor,2.21,Tidak,UKT 6
+M0228,19749405,3,PNS,Milik Sendiri,501442,Motor,3.17,Tidak,UKT 6
+M0229,15987428,3,Petani,Milik Sendiri,209882,Tidak Ada,2.98,Tidak,UKT 6
+M0230,9006404,2,PNS,Milik Sendiri,503222,Mobil,3.05,Ya,UKT 4
+M0231,1741082,5,Petani,Milik Sendiri,687790,Tidak Ada,3.33,Tidak,UKT 1
+M0232,5684502,4,Tidak Bekerja,Milik Sendiri,334944,Mobil,2.53,Tidak,UKT 2
+M0233,13781288,4,Wiraswasta,Milik Sendiri,428336,Mobil,3.82,Tidak,UKT 6
+M0234,13003247,3,Petani,Milik Sendiri,552175,Mobil,2.87,Tidak,UKT 6
+M0235,18856375,6,Swasta,Kontrak,306505,Motor,2.26,Tidak,UKT 6
+M0236,6541495,6,Petani,Milik Sendiri,681516,Tidak Ada,3.48,Tidak,UKT 2
+M0237,18069187,2,Petani,Milik Sendiri,256548,Motor,3.29,Tidak,UKT 6
+M0238,1001157,4,Swasta,Menumpang,512676,Motor,2.63,Tidak,UKT 1
+M0239,11502109,3,PNS,Menumpang,500983,Motor,3.24,Tidak,UKT 6
+M0240,6446594,5,Wiraswasta,Rumah Dinas,518535,Mobil,2.44,Ya,UKT 2
+M0241,11810552,4,Swasta,Menumpang,546005,Motor,2.89,Tidak,UKT 5
+M0242,11971761,3,PNS,Kontrak,63233,Motor,3.8,Tidak,UKT 6
+M0243,3404941,3,Swasta,Menumpang,533236,Motor,2.27,Tidak,UKT 1
+M0244,8483441,1,Swasta,Milik Sendiri,382597,Motor,2.77,Tidak,UKT 4
+M0245,5820385,5,Wiraswasta,Milik Sendiri,678423,Motor,3.64,Tidak,UKT 2
+M0246,19377237,1,Wiraswasta,Milik Sendiri,469048,Mobil,3.94,Tidak,UKT 6
+M0247,13864386,2,Wiraswasta,Milik Sendiri,420608,Motor,2.91,Ya,UKT 6
+M0248,15634415,1,PNS,Milik Sendiri,267314,Mobil,3.01,Tidak,UKT 6
+M0249,10249436,1,Swasta,Kontrak,587970,Mobil,3.14,Tidak,UKT 5
+M0250,17895683,4,Swasta,Rumah Dinas,535514,Mobil,3.86,Ya,UKT 6
+M0251,5833152,6,PNS,Kontrak,204455,Tidak Ada,3.72,Tidak,UKT 2
+M0252,11024227,3,Swasta,Milik Sendiri,370304,Mobil,2.34,Tidak,UKT 5
+M0253,12844096,5,Wiraswasta,Rumah Dinas,335810,Motor,2.87,Tidak,UKT 6
+M0254,7828141,1,PNS,Kontrak,370961,Tidak Ada,2.93,Tidak,UKT 4
+M0255,18985139,5,Petani,Milik Sendiri,665486,Motor,3.58,Tidak,UKT 6
+M0256,5634207,6,Swasta,Kontrak,477858,Motor,3.21,Tidak,UKT 2
+M0257,9016999,6,PNS,Milik Sendiri,616118,Tidak Ada,3.31,Ya,UKT 3
+M0258,9905634,1,Swasta,Milik Sendiri,546283,Tidak Ada,4.0,Tidak,UKT 5
+M0259,6353584,2,Tidak Bekerja,Menumpang,584522,Tidak Ada,2.15,Ya,UKT 3
+M0260,14988191,1,Wiraswasta,Milik Sendiri,631904,Motor+Mobil,2.45,Tidak,UKT 6
+M0261,15436751,4,Tidak Bekerja,Milik Sendiri,321365,Tidak Ada,2.82,Tidak,UKT 6
+M0262,4801754,3,Swasta,Menumpang,192482,Motor,2.7,Tidak,UKT 2
+M0263,2769042,2,PNS,Kontrak,51051,Motor,2.04,Tidak,UKT 1
+M0264,15618805,1,Petani,Milik Sendiri,651206,Motor,2.18,Tidak,UKT 6
+M0265,2483509,5,Swasta,Milik Sendiri,128116,Motor+Mobil,3.36,Ya,UKT 1
+M0266,8240141,2,Wiraswasta,Milik Sendiri,434370,Tidak Ada,3.76,Tidak,UKT 4
+M0267,17393597,2,PNS,Kontrak,278931,Motor,3.03,Tidak,UKT 6
+M0268,18798917,1,Swasta,Milik Sendiri,356901,Motor,3.08,Tidak,UKT 6
+M0269,10508805,2,PNS,Milik Sendiri,569385,Motor+Mobil,2.51,Ya,UKT 5
+M0270,11120268,5,Swasta,Menumpang,433152,Motor,3.54,Tidak,UKT 5
+M0271,10666834,6,Wiraswasta,Kontrak,573562,Mobil,3.5,Tidak,UKT 4
+M0272,6605525,2,Swasta,Milik Sendiri,276572,Tidak Ada,3.18,Tidak,UKT 3
+M0273,11826237,6,Swasta,Kontrak,181379,Motor,2.43,Tidak,UKT 5
+M0274,19734400,5,Swasta,Kontrak,631177,Motor,2.19,Tidak,UKT 6
+M0275,1918175,1,Swasta,Milik Sendiri,276256,Mobil,2.13,Tidak,UKT 1
+M0276,16059675,3,Wiraswasta,Milik Sendiri,612422,Tidak Ada,3.19,Tidak,UKT 6
+M0277,16400476,2,Wiraswasta,Rumah Dinas,470539,Tidak Ada,3.65,Tidak,UKT 6
+M0278,7765795,3,Tidak Bekerja,Milik Sendiri,559421,Motor,3.72,Tidak,UKT 4
+M0279,4272962,5,Wiraswasta,Kontrak,252834,Tidak Ada,2.93,Tidak,UKT 1
+M0280,13080031,2,Swasta,Milik Sendiri,530441,Tidak Ada,3.57,Tidak,UKT 6
+M0281,10649035,6,Petani,Milik Sendiri,277579,Motor+Mobil,3.89,Ya,UKT 4
+M0282,13207035,4,Swasta,Milik Sendiri,600242,Motor,2.55,Tidak,UKT 6
+M0283,5630397,3,Swasta,Milik Sendiri,402103,Motor,2.8,Ya,UKT 2
+M0284,3951356,2,Wiraswasta,Milik Sendiri,317136,Mobil,3.86,Tidak,UKT 2
+M0285,3944084,3,PNS,Milik Sendiri,576249,Motor,2.68,Tidak,UKT 2
+M0286,3427109,2,Tidak Bekerja,Rumah Dinas,586785,Tidak Ada,3.83,Tidak,UKT 2
+M0287,13261186,1,Swasta,Menumpang,475767,Motor,3.96,Tidak,UKT 6
+M0288,11775612,6,Petani,Rumah Dinas,185639,Motor,3.32,Tidak,UKT 5
+M0289,9003902,3,Petani,Menumpang,70389,Motor,3.63,Ya,UKT 4
+M0290,12021122,4,Wiraswasta,Milik Sendiri,225595,Motor,3.5,Tidak,UKT 6
+M0291,16688091,4,Petani,Menumpang,435946,Tidak Ada,3.4,Tidak,UKT 6
+M0292,6714624,5,Petani,Milik Sendiri,373720,Motor,2.61,Tidak,UKT 3
+M0293,4835868,2,PNS,Menumpang,53358,Motor+Mobil,2.11,Tidak,UKT 2
+M0294,10314996,3,Petani,Menumpang,400679,Mobil,2.69,Tidak,UKT 5
+M0295,15150271,5,PNS,Kontrak,551110,Mobil,3.33,Ya,UKT 6
+M0296,12740032,3,Wiraswasta,Menumpang,302557,Mobil,2.21,Tidak,UKT 6
+M0297,19492383,2,Petani,Kontrak,257596,Motor,2.02,Tidak,UKT 6
+M0298,4386402,4,Petani,Milik Sendiri,680270,Mobil,2.28,Tidak,UKT 2
+M0299,9578552,1,PNS,Milik Sendiri,278129,Tidak Ada,3.43,Tidak,UKT 5
+M0300,17965321,4,PNS,Kontrak,378953,Motor,3.95,Tidak,UKT 6
+M0301,2489173,5,Wiraswasta,Milik Sendiri,667367,Motor,3.97,Tidak,UKT 1
+M0302,3580761,6,PNS,Kontrak,105805,Tidak Ada,2.99,Ya,UKT 1
+M0303,1914466,1,PNS,Menumpang,212421,Mobil,3.74,Ya,UKT 1
+M0304,945101,5,PNS,Milik Sendiri,257849,Motor+Mobil,3.47,Tidak,UKT 1
+M0305,15216695,2,Tidak Bekerja,Rumah Dinas,288483,Motor,3.0,Ya,UKT 6
+M0306,18382750,1,Wiraswasta,Menumpang,442551,Mobil,3.15,Tidak,UKT 6
+M0307,12116410,5,Swasta,Menumpang,94041,Tidak Ada,2.27,Tidak,UKT 5
+M0308,10692257,2,Swasta,Menumpang,320146,Motor,3.88,Tidak,UKT 5
+M0309,10113273,4,Swasta,Kontrak,381927,Motor,2.7,Tidak,UKT 5
+M0310,7815360,6,Wiraswasta,Menumpang,157524,Motor,2.89,Tidak,UKT 3
+M0311,16858792,2,Petani,Rumah Dinas,268306,Motor+Mobil,3.34,Ya,UKT 6
+M0312,998863,3,PNS,Milik Sendiri,594026,Mobil,2.67,Tidak,UKT 1
+M0313,19953404,2,PNS,Milik Sendiri,163776,Mobil,2.51,Tidak,UKT 6
+M0314,9685687,2,PNS,Kontrak,230494,Motor,3.26,Tidak,UKT 5
+M0315,15400027,6,Petani,Milik Sendiri,242971,Motor+Mobil,2.05,Tidak,UKT 6
+M0316,15660825,3,Wiraswasta,Kontrak,327785,Tidak Ada,3.44,Tidak,UKT 6
+M0317,7012440,5,Swasta,Kontrak,391678,Mobil,3.03,Tidak,UKT 3
+M0318,12931395,5,PNS,Milik Sendiri,318449,Motor,3.21,Tidak,UKT 6
+M0319,6599628,2,PNS,Kontrak,330926,Tidak Ada,3.26,Ya,UKT 3
+M0320,7055968,3,Tidak Bekerja,Rumah Dinas,390401,Motor,3.05,Tidak,UKT 3
+M0321,3199015,3,Swasta,Milik Sendiri,286371,Motor,3.17,Tidak,UKT 1
+M0322,17222573,6,Wiraswasta,Milik Sendiri,652251,Motor,3.37,Tidak,UKT 6
+M0323,16840850,4,Petani,Milik Sendiri,696275,Motor,3.51,Tidak,UKT 6
+M0324,9337590,5,Swasta,Milik Sendiri,174591,Tidak Ada,3.45,Tidak,UKT 4
+M0325,18449838,6,Swasta,Menumpang,642054,Tidak Ada,3.74,Tidak,UKT 6
+M0326,3003771,1,PNS,Milik Sendiri,580799,Tidak Ada,2.38,Tidak,UKT 2
+M0327,3677825,5,Petani,Kontrak,689104,Motor,2.8,Ya,UKT 1
+M0328,1496161,6,Wiraswasta,Milik Sendiri,550981,Tidak Ada,3.9,Tidak,UKT 1
+M0329,4683839,5,Petani,Milik Sendiri,316909,Motor,2.79,Tidak,UKT 2
+M0330,1166326,4,Petani,Rumah Dinas,201426,Motor,2.25,Tidak,UKT 1
+M0331,1149150,1,PNS,Kontrak,336073,Motor+Mobil,3.05,Tidak,UKT 1
+M0332,618834,4,Tidak Bekerja,Milik Sendiri,209892,Mobil,2.22,Tidak,UKT 1
+M0333,15885150,1,Wiraswasta,Milik Sendiri,161576,Motor,2.41,Ya,UKT 6
+M0334,13367733,2,Swasta,Milik Sendiri,472739,Mobil,4.0,Tidak,UKT 6
+M0335,4922201,6,Tidak Bekerja,Milik Sendiri,645376,Mobil,3.08,Tidak,UKT 1
+M0336,1579600,1,Petani,Kontrak,127525,Motor+Mobil,2.57,Ya,UKT 1
+M0337,10327141,4,Petani,Milik Sendiri,63780,Motor,3.99,Tidak,UKT 5
+M0338,4003157,5,Wiraswasta,Milik Sendiri,318733,Tidak Ada,3.93,Tidak,UKT 1
+M0339,9349851,1,Wiraswasta,Milik Sendiri,494709,Motor,2.88,Tidak,UKT 5
+M0340,19262804,6,Petani,Menumpang,154188,Motor,2.52,Ya,UKT 6
+M0341,19029899,1,PNS,Menumpang,667614,Motor,3.68,Tidak,UKT 6
+M0342,18281862,3,Swasta,Milik Sendiri,640073,Motor,3.43,Tidak,UKT 6
+M0343,949395,5,Tidak Bekerja,Rumah Dinas,593597,Mobil,3.37,Ya,UKT 1
+M0344,7254350,6,Swasta,Milik Sendiri,628483,Motor+Mobil,3.79,Tidak,UKT 3
+M0345,18537602,6,Swasta,Milik Sendiri,75901,Motor,3.38,Tidak,UKT 6
+M0346,3879569,2,Swasta,Rumah Dinas,474724,Tidak Ada,2.57,Tidak,UKT 2
+M0347,3400603,4,Swasta,Menumpang,517927,Tidak Ada,3.39,Tidak,UKT 1
+M0348,16209289,2,Petani,Menumpang,599752,Mobil,2.61,Tidak,UKT 6
+M0349,11855805,6,Tidak Bekerja,Kontrak,328404,Motor,3.52,Ya,UKT 4
+M0350,9111474,5,Swasta,Milik Sendiri,699285,Motor,3.24,Ya,UKT 3
+M0351,2146711,1,PNS,Rumah Dinas,347584,Motor,2.15,Tidak,UKT 1
+M0352,16963634,1,PNS,Milik Sendiri,407226,Motor,3.03,Tidak,UKT 6
+M0353,6819707,5,Wiraswasta,Kontrak,630971,Motor,2.69,Tidak,UKT 3
+M0354,8467801,6,Petani,Milik Sendiri,436350,Motor,2.66,Tidak,UKT 3
+M0355,1923286,1,Swasta,Kontrak,222502,Mobil,3.2,Tidak,UKT 1
+M0356,4195961,1,Wiraswasta,Milik Sendiri,557994,Motor+Mobil,2.64,Tidak,UKT 2
+M0357,8717316,1,Wiraswasta,Milik Sendiri,652772,Motor+Mobil,3.55,Tidak,UKT 5
+M0358,7848340,4,Wiraswasta,Menumpang,256486,Motor+Mobil,2.14,Ya,UKT 3
+M0359,12302429,4,Tidak Bekerja,Milik Sendiri,499777,Motor,3.32,Tidak,UKT 6
+M0360,683062,3,Swasta,Kontrak,191449,Motor,3.62,Tidak,UKT 1
+M0361,3341992,2,Wiraswasta,Milik Sendiri,627880,Mobil,3.35,Tidak,UKT 2
+M0362,4794539,5,Swasta,Milik Sendiri,188419,Motor+Mobil,2.99,Tidak,UKT 2
+M0363,12109076,5,Wiraswasta,Milik Sendiri,345920,Tidak Ada,3.9,Tidak,UKT 5
+M0364,15558560,5,Wiraswasta,Milik Sendiri,630086,Motor,2.6,Tidak,UKT 6
+M0365,6595929,3,Wiraswasta,Menumpang,185370,Tidak Ada,2.04,Ya,UKT 3
+M0366,5444505,4,Petani,Milik Sendiri,498377,Motor,2.86,Tidak,UKT 2
+M0367,1303328,6,PNS,Menumpang,541830,Motor,2.07,Tidak,UKT 1
+M0368,1543233,6,Petani,Kontrak,293767,Motor,3.91,Tidak,UKT 1
+M0369,10600349,3,Tidak Bekerja,Milik Sendiri,595210,Tidak Ada,2.42,Tidak,UKT 5
+M0370,1029525,6,Tidak Bekerja,Kontrak,477244,Motor,3.58,Tidak,UKT 1
+M0371,16212815,5,PNS,Kontrak,554677,Mobil,3.55,Ya,UKT 6
+M0372,14151544,2,PNS,Rumah Dinas,463532,Motor,2.44,Tidak,UKT 6
+M0373,17453831,1,PNS,Milik Sendiri,460184,Motor,3.24,Tidak,UKT 6
+M0374,7974447,4,Wiraswasta,Milik Sendiri,568895,Motor,2.1,Tidak,UKT 3
+M0375,5101020,4,Wiraswasta,Menumpang,276817,Mobil,2.97,Ya,UKT 2
+M0376,15626502,3,Swasta,Menumpang,467216,Tidak Ada,2.03,Tidak,UKT 6
+M0377,4199391,4,Petani,Menumpang,52866,Motor+Mobil,3.84,Tidak,UKT 2
+M0378,10574901,5,Wiraswasta,Milik Sendiri,162669,Motor,3.95,Tidak,UKT 5
+M0379,15432828,6,Wiraswasta,Rumah Dinas,330539,Motor+Mobil,2.44,Tidak,UKT 6
+M0380,4112610,5,Petani,Milik Sendiri,316150,Motor+Mobil,2.42,Tidak,UKT 1
+M0381,15692217,3,Petani,Milik Sendiri,493258,Motor,3.51,Ya,UKT 6
+M0382,19441583,5,Petani,Milik Sendiri,539415,Tidak Ada,2.51,Tidak,UKT 6
+M0383,10792658,6,Swasta,Kontrak,407820,Motor,3.79,Tidak,UKT 4
+M0384,644356,2,Petani,Milik Sendiri,696012,Motor,3.15,Tidak,UKT 1
+M0385,13286773,3,Petani,Milik Sendiri,637189,Tidak Ada,2.7,Tidak,UKT 6
+M0386,2248014,2,Wiraswasta,Menumpang,538029,Tidak Ada,3.67,Tidak,UKT 1
+M0387,7656720,1,Petani,Milik Sendiri,691480,Motor,2.99,Tidak,UKT 4
+M0388,17242125,2,Wiraswasta,Milik Sendiri,222646,Tidak Ada,3.82,Tidak,UKT 6
+M0389,13161693,1,PNS,Milik Sendiri,343561,Tidak Ada,3.86,Tidak,UKT 6
+M0390,2788627,1,Swasta,Menumpang,400164,Motor,2.33,Tidak,UKT 2
+M0391,15340260,2,PNS,Kontrak,395783,Tidak Ada,2.0,Tidak,UKT 6
+M0392,7097519,3,Swasta,Milik Sendiri,508222,Motor,3.97,Tidak,UKT 3
+M0393,18041337,6,Wiraswasta,Rumah Dinas,144881,Motor,3.81,Ya,UKT 6
+M0394,10058356,5,Tidak Bekerja,Rumah Dinas,292934,Motor,2.11,Ya,UKT 4
+M0395,11470723,5,PNS,Milik Sendiri,182659,Mobil,3.67,Ya,UKT 4
+M0396,6198848,6,Swasta,Kontrak,695976,Motor,2.92,Tidak,UKT 2
+M0397,16547357,1,Wiraswasta,Rumah Dinas,551323,Motor,2.52,Tidak,UKT 6
+M0398,18384893,1,Swasta,Kontrak,689872,Motor,3.76,Tidak,UKT 6
+M0399,6238852,3,Petani,Milik Sendiri,229689,Mobil,2.39,Tidak,UKT 3
+M0400,788790,4,Wiraswasta,Menumpang,384517,Mobil,3.89,Ya,UKT 1
+M0401,5584921,2,Petani,Kontrak,215289,Mobil,2.41,Ya,UKT 2
+M0402,16963605,1,PNS,Milik Sendiri,333028,Motor,3.23,Tidak,UKT 6
+M0403,10297444,5,Swasta,Milik Sendiri,317598,Tidak Ada,2.45,Tidak,UKT 4
+M0404,17112451,3,Wiraswasta,Milik Sendiri,649248,Motor,3.09,Tidak,UKT 6
+M0405,13733331,2,Petani,Milik Sendiri,152421,Tidak Ada,3.37,Ya,UKT 6
+M0406,4193305,3,PNS,Rumah Dinas,288245,Motor+Mobil,2.38,Ya,UKT 1
+M0407,16601010,2,Wiraswasta,Milik Sendiri,617906,Motor,3.04,Ya,UKT 6
+M0408,13970137,2,PNS,Milik Sendiri,97111,Mobil,2.94,Ya,UKT 6
+M0409,4966271,6,Wiraswasta,Kontrak,482829,Motor,2.14,Tidak,UKT 1
+M0410,1852695,1,Swasta,Milik Sendiri,266750,Mobil,3.64,Ya,UKT 1
+M0411,10995300,3,Tidak Bekerja,Menumpang,170592,Motor,2.67,Tidak,UKT 5
+M0412,18866444,3,Swasta,Milik Sendiri,284000,Tidak Ada,3.15,Tidak,UKT 6
+M0413,1600567,6,Swasta,Milik Sendiri,372137,Motor,3.03,Tidak,UKT 1
+M0414,8206358,5,PNS,Milik Sendiri,178652,Motor,3.03,Tidak,UKT 3
+M0415,13701904,5,Swasta,Milik Sendiri,558069,Motor,2.21,Tidak,UKT 6
+M0416,549115,1,Wiraswasta,Milik Sendiri,652960,Mobil,2.85,Ya,UKT 1
+M0417,15923647,1,Tidak Bekerja,Kontrak,267516,Tidak Ada,2.9,Tidak,UKT 6
+M0418,12226298,4,Swasta,Menumpang,429653,Motor,3.47,Tidak,UKT 6
+M0419,17998963,6,Swasta,Milik Sendiri,111602,Motor,3.68,Ya,UKT 6
+M0420,13619138,5,Wiraswasta,Kontrak,253117,Motor,3.09,Tidak,UKT 6
+M0421,11938459,2,Wiraswasta,Kontrak,287069,Mobil,2.17,Tidak,UKT 6
+M0422,15533888,3,Petani,Rumah Dinas,616510,Mobil,2.47,Tidak,UKT 6
+M0423,1904330,1,Swasta,Milik Sendiri,291084,Mobil,2.33,Ya,UKT 1
+M0424,17528708,3,Swasta,Milik Sendiri,292318,Mobil,2.25,Ya,UKT 6
+M0425,4535851,3,Petani,Milik Sendiri,639621,Mobil,2.73,Tidak,UKT 2
+M0426,14631010,4,PNS,Kontrak,434794,Motor,2.46,Ya,UKT 6
+M0427,991072,5,Petani,Rumah Dinas,99420,Mobil,2.44,Tidak,UKT 1
+M0428,1586880,1,Swasta,Milik Sendiri,649792,Motor,2.11,Tidak,UKT 1
+M0429,13587911,3,Wiraswasta,Milik Sendiri,576750,Motor,2.04,Ya,UKT 6
+M0430,15787338,1,PNS,Menumpang,321604,Tidak Ada,2.21,Tidak,UKT 6
+M0431,2555723,2,Petani,Rumah Dinas,673607,Mobil,2.34,Tidak,UKT 1
+M0432,2748988,4,Swasta,Menumpang,172672,Mobil,2.86,Ya,UKT 1
+M0433,16183595,2,Petani,Rumah Dinas,509158,Motor,3.02,Tidak,UKT 6
+M0434,10202701,1,PNS,Milik Sendiri,385064,Mobil,2.28,Tidak,UKT 5
+M0435,11653281,1,Petani,Kontrak,563953,Motor+Mobil,2.85,Tidak,UKT 6
+M0436,3476242,5,Petani,Kontrak,467582,Tidak Ada,2.68,Tidak,UKT 1
+M0437,5080081,3,Petani,Milik Sendiri,94036,Motor,2.37,Tidak,UKT 2
+M0438,14756162,3,Petani,Kontrak,198441,Mobil,2.01,Tidak,UKT 6
+M0439,3148790,2,Petani,Kontrak,192867,Motor,2.93,Tidak,UKT 2
+M0440,4263024,4,Wiraswasta,Milik Sendiri,120021,Motor,3.37,Tidak,UKT 2
+M0441,11598716,6,Swasta,Rumah Dinas,419349,Tidak Ada,2.45,Tidak,UKT 5
+M0442,5333177,3,Wiraswasta,Kontrak,511370,Motor,2.26,Tidak,UKT 2
+M0443,8772841,5,Swasta,Menumpang,472641,Mobil,3.77,Ya,UKT 3
+M0444,8954561,2,PNS,Milik Sendiri,387283,Motor,2.55,Tidak,UKT 4
+M0445,12878226,2,PNS,Milik Sendiri,579656,Mobil,2.45,Tidak,UKT 6
+M0446,3097480,6,Swasta,Kontrak,633117,Mobil,3.71,Ya,UKT 1
+M0447,17035430,5,Wiraswasta,Milik Sendiri,441180,Mobil,3.63,Tidak,UKT 6
+M0448,4697571,4,Wiraswasta,Kontrak,503510,Motor,2.9,Ya,UKT 1
+M0449,6618900,5,Wiraswasta,Rumah Dinas,603515,Tidak Ada,2.98,Ya,UKT 2
+M0450,17434380,4,Petani,Milik Sendiri,683718,Motor,2.44,Tidak,UKT 6
+M0451,11117244,5,Swasta,Kontrak,450782,Tidak Ada,2.16,Tidak,UKT 5
+M0452,1031831,5,PNS,Kontrak,62306,Mobil,3.15,Ya,UKT 1
+M0453,3489475,1,Swasta,Milik Sendiri,628110,Motor,2.2,Tidak,UKT 2
+M0454,17179640,2,Swasta,Menumpang,74042,Motor,2.9,Tidak,UKT 6
+M0455,3869720,5,PNS,Rumah Dinas,458302,Motor,3.88,Ya,UKT 1
+M0456,5211075,6,Swasta,Kontrak,663712,Mobil,3.91,Tidak,UKT 2
+M0457,7354500,5,Petani,Kontrak,232690,Mobil,2.48,Tidak,UKT 3
+M0458,3140328,3,Wiraswasta,Milik Sendiri,199395,Motor,3.25,Tidak,UKT 1
+M0459,9722335,2,Tidak Bekerja,Menumpang,592307,Mobil,2.95,Tidak,UKT 5
+M0460,12052291,3,Tidak Bekerja,Kontrak,615151,Motor,3.75,Tidak,UKT 6
+M0461,570640,2,Petani,Kontrak,685311,Motor,2.54,Tidak,UKT 1
+M0462,13279494,3,Swasta,Menumpang,359143,Mobil,2.01,Tidak,UKT 6
+M0463,10889599,5,Petani,Milik Sendiri,112780,Motor,2.33,Tidak,UKT 5
+M0464,5094877,5,Wiraswasta,Rumah Dinas,438422,Motor+Mobil,2.7,Tidak,UKT 2
+M0465,18632747,1,PNS,Milik Sendiri,493441,Tidak Ada,2.63,Ya,UKT 6
+M0466,1175510,6,Swasta,Milik Sendiri,150706,Tidak Ada,3.58,Tidak,UKT 1
+M0467,4241196,3,Wiraswasta,Milik Sendiri,172019,Motor+Mobil,3.36,Tidak,UKT 2
+M0468,17083522,4,Swasta,Menumpang,421852,Tidak Ada,2.6,Ya,UKT 6
+M0469,7206024,1,Petani,Menumpang,229001,Motor+Mobil,2.92,Ya,UKT 3
+M0470,12220477,3,Petani,Kontrak,150260,Motor+Mobil,2.19,Tidak,UKT 6
+M0471,18175536,3,PNS,Kontrak,220863,Tidak Ada,3.8,Tidak,UKT 6
+M0472,13717648,1,Swasta,Kontrak,643731,Motor,3.87,Ya,UKT 6
+M0473,19284851,5,Swasta,Menumpang,369674,Tidak Ada,3.96,Tidak,UKT 6
+M0474,3764908,3,PNS,Milik Sendiri,490015,Motor,3.74,Tidak,UKT 2
+M0475,13492907,5,PNS,Milik Sendiri,146143,Tidak Ada,2.35,Tidak,UKT 6
+M0476,15073458,1,Wiraswasta,Milik Sendiri,194771,Motor,2.09,Tidak,UKT 6
+M0477,14856744,5,Swasta,Rumah Dinas,556713,Motor,3.16,Tidak,UKT 6
+M0478,16287803,2,Petani,Kontrak,161362,Motor,3.83,Tidak,UKT 6
+M0479,13923442,4,Swasta,Milik Sendiri,340951,Motor+Mobil,2.35,Tidak,UKT 6
+M0480,4099865,3,Tidak Bekerja,Milik Sendiri,226298,Mobil,2.01,Tidak,UKT 2
+M0481,13956244,6,Swasta,Rumah Dinas,633838,Mobil,3.61,Tidak,UKT 6
+M0482,18316674,4,Swasta,Milik Sendiri,523288,Motor,2.15,Tidak,UKT 6
+M0483,4272811,5,Wiraswasta,Kontrak,315702,Mobil,2.83,Tidak,UKT 1
+M0484,2817336,3,Wiraswasta,Menumpang,362257,Motor,3.36,Ya,UKT 1
+M0485,3263642,5,PNS,Milik Sendiri,108219,Mobil,2.47,Ya,UKT 1
+M0486,8189684,2,Wiraswasta,Milik Sendiri,286495,Motor+Mobil,2.17,Tidak,UKT 4
+M0487,10698499,1,Swasta,Kontrak,627506,Motor,3.54,Tidak,UKT 6
+M0488,4288340,3,Swasta,Rumah Dinas,331373,Motor,3.26,Tidak,UKT 2
+M0489,11308470,2,PNS,Kontrak,602165,Mobil,3.98,Tidak,UKT 6
+M0490,697775,2,PNS,Menumpang,239073,Motor+Mobil,2.69,Ya,UKT 1
+M0491,2886488,3,Wiraswasta,Milik Sendiri,409281,Mobil,2.12,Ya,UKT 1
+M0492,18064710,5,Swasta,Kontrak,197878,Motor,3.47,Ya,UKT 6
+M0493,5832660,6,Swasta,Kontrak,269707,Motor,3.04,Tidak,UKT 2
+M0494,10089801,2,Wiraswasta,Menumpang,291249,Tidak Ada,2.43,Tidak,UKT 5
+M0495,12831942,4,Wiraswasta,Milik Sendiri,87034,Mobil,3.56,Tidak,UKT 6
+M0496,16579245,2,PNS,Rumah Dinas,221389,Tidak Ada,2.41,Tidak,UKT 6
+M0497,11898366,6,Petani,Kontrak,462310,Mobil,2.52,Tidak,UKT 5
+M0498,5583769,5,PNS,Milik Sendiri,60589,Tidak Ada,2.19,Tidak,UKT 2
+M0499,17810852,5,Wiraswasta,Milik Sendiri,107221,Tidak Ada,2.8,Tidak,UKT 6
+M0500,11926978,4,Petani,Menumpang,305927,Motor,2.84,Tidak,UKT 5
+M0501,12124266,2,Tidak Bekerja,Milik Sendiri,410444,Mobil,3.03,Tidak,UKT 6
+M0502,10664811,5,PNS,Milik Sendiri,691517,Tidak Ada,3.42,Ya,UKT 4
+M0503,2776360,6,PNS,Milik Sendiri,626515,Motor,3.81,Ya,UKT 1
+M0504,16383337,3,Swasta,Menumpang,315308,Motor,2.28,Ya,UKT 6
+M0505,4908249,1,Swasta,Kontrak,143078,Motor,2.11,Tidak,UKT 3
+M0506,4926219,1,Swasta,Rumah Dinas,624887,Tidak Ada,2.04,Tidak,UKT 3
+M0507,11423237,1,Tidak Bekerja,Milik Sendiri,514761,Mobil,2.29,Tidak,UKT 6
+M0508,18609613,2,Swasta,Kontrak,559668,Motor,3.32,Ya,UKT 6
+M0509,16934343,4,Swasta,Kontrak,239651,Tidak Ada,3.45,Tidak,UKT 6
+M0510,11024841,5,Wiraswasta,Rumah Dinas,550741,Mobil,3.57,Tidak,UKT 5
+M0511,7146705,3,Swasta,Menumpang,118207,Motor+Mobil,2.49,Tidak,UKT 3
+M0512,5962810,6,Wiraswasta,Milik Sendiri,384199,Motor,2.61,Tidak,UKT 2
+M0513,13888409,3,PNS,Kontrak,390414,Motor,2.97,Tidak,UKT 6
+M0514,14346020,6,Swasta,Milik Sendiri,161426,Mobil,2.13,Tidak,UKT 6
+M0515,10226290,2,PNS,Kontrak,561081,Motor+Mobil,3.22,Tidak,UKT 5
+M0516,14159783,1,PNS,Milik Sendiri,184794,Mobil,3.97,Tidak,UKT 6
+M0517,16664204,2,Tidak Bekerja,Milik Sendiri,407776,Motor,2.72,Ya,UKT 6
+M0518,15337568,4,PNS,Milik Sendiri,595726,Motor,3.51,Ya,UKT 6
+M0519,1786643,4,Petani,Kontrak,633107,Mobil,3.0,Tidak,UKT 1
+M0520,10422192,6,Swasta,Milik Sendiri,93856,Tidak Ada,2.26,Ya,UKT 4
+M0521,8815390,5,Swasta,Kontrak,476792,Motor,3.16,Tidak,UKT 4
+M0522,6700646,5,Wiraswasta,Milik Sendiri,492244,Mobil,2.6,Tidak,UKT 3
+M0523,7483896,6,PNS,Milik Sendiri,109807,Motor,2.07,Tidak,UKT 3
+M0524,15009187,4,Petani,Rumah Dinas,540999,Motor,3.27,Tidak,UKT 6
+M0525,5909861,4,Tidak Bekerja,Milik Sendiri,93461,Motor,3.72,Tidak,UKT 2
+M0526,16431836,4,Petani,Milik Sendiri,667762,Tidak Ada,2.69,Tidak,UKT 6
+M0527,13331595,2,Tidak Bekerja,Kontrak,395280,Motor,2.78,Tidak,UKT 6
+M0528,16463317,4,PNS,Milik Sendiri,332579,Mobil,3.78,Tidak,UKT 6
+M0529,8915398,3,Swasta,Milik Sendiri,457407,Motor,3.63,Ya,UKT 4
+M0530,10580346,1,Swasta,Milik Sendiri,304730,Tidak Ada,3.43,Tidak,UKT 6
+M0531,948345,4,Wiraswasta,Menumpang,296732,Motor+Mobil,2.5,Tidak,UKT 1
+M0532,9637682,6,Tidak Bekerja,Kontrak,470602,Motor,3.82,Tidak,UKT 4
+M0533,8327494,1,Swasta,Kontrak,629074,Motor,2.31,Tidak,UKT 4
+M0534,2379490,2,Petani,Kontrak,325848,Motor+Mobil,3.25,Tidak,UKT 1
+M0535,16314828,6,PNS,Milik Sendiri,106635,Mobil,2.06,Tidak,UKT 6
+M0536,15709100,1,Petani,Milik Sendiri,402854,Motor,3.29,Tidak,UKT 6
+M0537,5484445,6,Swasta,Rumah Dinas,295984,Mobil,2.55,Tidak,UKT 2
+M0538,7439705,2,Tidak Bekerja,Milik Sendiri,375137,Tidak Ada,2.9,Tidak,UKT 4
+M0539,7502587,3,Petani,Milik Sendiri,162752,Mobil,2.69,Tidak,UKT 4
+M0540,7242471,2,Swasta,Milik Sendiri,261194,Motor,2.35,Tidak,UKT 4
+M0541,1954908,2,PNS,Milik Sendiri,278584,Mobil,3.24,Tidak,UKT 1
+M0542,11142302,6,PNS,Menumpang,468632,Motor,3.76,Tidak,UKT 5
+M0543,3819144,5,Swasta,Milik Sendiri,182886,Motor,3.92,Tidak,UKT 1
+M0544,9193670,4,Swasta,Kontrak,128537,Motor,2.38,Tidak,UKT 4
+M0545,17067296,4,Wiraswasta,Milik Sendiri,135166,Motor,3.43,Tidak,UKT 6
+M0546,6306466,3,Petani,Menumpang,425854,Mobil,3.33,Tidak,UKT 3
+M0547,13949563,3,Petani,Milik Sendiri,347843,Motor,2.69,Ya,UKT 6
+M0548,5804509,4,PNS,Milik Sendiri,358479,Motor,2.04,Tidak,UKT 2
+M0549,8168216,5,Wiraswasta,Kontrak,347883,Motor,3.38,Tidak,UKT 3
+M0550,5449499,4,Wiraswasta,Kontrak,609073,Motor,3.89,Tidak,UKT 2
+M0551,19664528,5,PNS,Milik Sendiri,213052,Mobil,3.26,Tidak,UKT 6
+M0552,6562903,3,Wiraswasta,Milik Sendiri,537918,Mobil,2.87,Tidak,UKT 3
+M0553,10314149,1,Petani,Milik Sendiri,444825,Motor,3.05,Ya,UKT 5
+M0554,19148619,6,PNS,Milik Sendiri,116253,Motor+Mobil,2.4,Tidak,UKT 6
+M0555,6247372,3,Swasta,Milik Sendiri,528697,Mobil,3.5,Tidak,UKT 3
+M0556,5348287,3,Swasta,Milik Sendiri,665416,Motor,3.49,Ya,UKT 2
+M0557,6158796,2,PNS,Milik Sendiri,211081,Motor,2.29,Ya,UKT 3
+M0558,18098268,2,Tidak Bekerja,Milik Sendiri,685254,Motor+Mobil,3.76,Tidak,UKT 6
+M0559,10695758,2,Wiraswasta,Kontrak,187854,Motor,2.54,Tidak,UKT 5
+M0560,2725300,6,Petani,Menumpang,673640,Mobil,3.96,Tidak,UKT 1
+M0561,19132783,2,Swasta,Kontrak,469149,Motor,2.77,Ya,UKT 6
+M0562,18812053,5,Swasta,Milik Sendiri,682585,Motor,2.36,Tidak,UKT 6
+M0563,12389876,4,Petani,Milik Sendiri,612634,Motor,2.7,Tidak,UKT 6
+M0564,3838442,1,Petani,Menumpang,162138,Motor,2.88,Tidak,UKT 2
+M0565,15463940,3,PNS,Milik Sendiri,362916,Motor+Mobil,2.14,Tidak,UKT 6
+M0566,13342659,5,Petani,Milik Sendiri,90149,Motor,3.16,Tidak,UKT 6
+M0567,923570,1,Wiraswasta,Kontrak,398844,Motor,3.2,Tidak,UKT 1
+M0568,2873139,5,Swasta,Kontrak,528928,Motor+Mobil,3.48,Tidak,UKT 1
+M0569,9746766,5,PNS,Kontrak,178447,Motor,2.06,Ya,UKT 4
+M0570,19392008,3,Wiraswasta,Milik Sendiri,511693,Motor,3.08,Tidak,UKT 6
+M0571,2373421,4,Swasta,Milik Sendiri,55695,Mobil,2.11,Tidak,UKT 1
+M0572,6581950,2,Swasta,Menumpang,613457,Mobil,3.4,Ya,UKT 3
+M0573,16150304,6,PNS,Milik Sendiri,228296,Tidak Ada,2.11,Ya,UKT 6
+M0574,11486868,4,Swasta,Kontrak,416645,Motor,3.82,Ya,UKT 5
+M0575,7425877,6,Wiraswasta,Kontrak,372554,Motor,3.4,Tidak,UKT 3
+M0576,6467106,3,Petani,Kontrak,415898,Motor,3.01,Tidak,UKT 3
+M0577,12184495,3,Swasta,Milik Sendiri,403039,Motor,2.88,Ya,UKT 5
+M0578,12206838,3,Wiraswasta,Milik Sendiri,362849,Motor,2.26,Tidak,UKT 6
+M0579,5618922,1,Wiraswasta,Kontrak,242994,Tidak Ada,2.58,Ya,UKT 3
+M0580,14142511,6,Wiraswasta,Menumpang,427844,Motor,3.74,Tidak,UKT 6
+M0581,17236613,4,Swasta,Menumpang,51881,Tidak Ada,3.81,Tidak,UKT 6
+M0582,11373803,4,Swasta,Milik Sendiri,359509,Motor,2.0,Tidak,UKT 5
+M0583,13149115,5,Tidak Bekerja,Milik Sendiri,571144,Mobil,3.19,Tidak,UKT 6
+M0584,17437991,5,Wiraswasta,Menumpang,129211,Mobil,3.44,Tidak,UKT 6
+M0585,3167867,5,PNS,Kontrak,206078,Motor,3.24,Tidak,UKT 1
+M0586,12358009,3,PNS,Menumpang,353342,Tidak Ada,2.16,Tidak,UKT 6
+M0587,8186841,4,Swasta,Milik Sendiri,475659,Motor,2.44,Tidak,UKT 4
+M0588,12664411,6,Tidak Bekerja,Kontrak,277203,Motor,2.5,Ya,UKT 5
+M0589,1844027,3,Petani,Kontrak,89553,Motor,3.66,Ya,UKT 1
+M0590,4666500,1,Swasta,Kontrak,557353,Motor,2.93,Tidak,UKT 3
+M0591,9679875,5,PNS,Milik Sendiri,448138,Motor,2.97,Tidak,UKT 4
+M0592,8384479,3,Petani,Milik Sendiri,82766,Mobil,3.87,Tidak,UKT 4
+M0593,997562,3,Wiraswasta,Kontrak,605710,Motor,3.27,Tidak,UKT 1
+M0594,12737301,1,Swasta,Milik Sendiri,324349,Motor,3.8,Tidak,UKT 6
+M0595,5078238,2,Wiraswasta,Milik Sendiri,529806,Mobil,2.91,Tidak,UKT 3
+M0596,6062067,4,Tidak Bekerja,Menumpang,204599,Motor,2.3,Tidak,UKT 3
+M0597,5737196,6,Swasta,Milik Sendiri,461659,Tidak Ada,3.86,Tidak,UKT 2
+M0598,2100396,2,Petani,Rumah Dinas,459740,Motor,2.92,Tidak,UKT 1
+M0599,10055196,5,Swasta,Milik Sendiri,428621,Motor,2.36,Tidak,UKT 4
+M0600,13521573,3,Wiraswasta,Kontrak,78202,Mobil,2.6,Tidak,UKT 6
+M0601,19773297,1,Petani,Menumpang,489358,Motor,2.1,Tidak,UKT 6
+M0602,11566226,1,Petani,Milik Sendiri,70855,Motor,2.94,Tidak,UKT 6
+M0603,13546468,4,Wiraswasta,Milik Sendiri,526963,Motor,3.71,Ya,UKT 6
+M0604,17852494,2,Swasta,Milik Sendiri,361385,Tidak Ada,3.87,Ya,UKT 6
+M0605,18455265,4,Tidak Bekerja,Milik Sendiri,677407,Mobil,3.87,Tidak,UKT 6
+M0606,13560919,3,Petani,Kontrak,626291,Mobil,2.25,Tidak,UKT 6
+M0607,7636029,4,PNS,Menumpang,511595,Motor,2.76,Tidak,UKT 3
+M0608,3814692,6,Petani,Milik Sendiri,144837,Motor,2.06,Tidak,UKT 1
+M0609,13082006,1,Wiraswasta,Milik Sendiri,273068,Motor,3.71,Tidak,UKT 6
+M0610,6785088,1,Swasta,Milik Sendiri,406427,Mobil,2.72,Tidak,UKT 4
+M0611,18387605,5,Wiraswasta,Kontrak,173805,Tidak Ada,3.26,Ya,UKT 6
+M0612,16853425,5,Tidak Bekerja,Milik Sendiri,165657,Tidak Ada,3.43,Tidak,UKT 6
+M0613,12960255,3,Swasta,Kontrak,154428,Motor,2.86,Tidak,UKT 6
+M0614,4412942,6,Tidak Bekerja,Kontrak,172035,Motor,2.61,Ya,UKT 1
+M0615,9001424,2,PNS,Kontrak,495563,Motor,3.92,Tidak,UKT 5
+M0616,7968810,4,Swasta,Milik Sendiri,280780,Tidak Ada,3.93,Tidak,UKT 3
+M0617,2135156,3,PNS,Kontrak,119518,Motor,2.58,Tidak,UKT 1
+M0618,10655224,5,Wiraswasta,Milik Sendiri,226355,Motor,2.96,Tidak,UKT 5
+M0619,5501045,4,Petani,Milik Sendiri,170243,Motor,3.95,Tidak,UKT 2
+M0620,4963418,5,PNS,Menumpang,446308,Mobil,2.01,Tidak,UKT 2
+M0621,10770156,4,Swasta,Kontrak,103311,Tidak Ada,2.83,Tidak,UKT 5
+M0622,4845760,2,Petani,Milik Sendiri,72692,Motor,2.2,Tidak,UKT 2
+M0623,3751298,3,PNS,Milik Sendiri,699242,Motor,3.02,Tidak,UKT 2
+M0624,4965150,4,Wiraswasta,Milik Sendiri,442179,Motor,2.05,Tidak,UKT 2
+M0625,7749903,6,Wiraswasta,Milik Sendiri,271468,Motor,2.81,Ya,UKT 2
+M0626,18600699,1,Petani,Milik Sendiri,391651,Mobil,2.44,Ya,UKT 6
+M0627,2222320,6,Tidak Bekerja,Milik Sendiri,130152,Tidak Ada,3.07,Tidak,UKT 1
+M0628,13798372,6,Swasta,Milik Sendiri,513685,Motor+Mobil,3.99,Ya,UKT 5
+M0629,19609733,1,Tidak Bekerja,Kontrak,579214,Motor,3.6,Tidak,UKT 6
+M0630,3696340,6,Petani,Kontrak,53969,Motor,3.69,Tidak,UKT 1
+M0631,14941444,4,Petani,Kontrak,85733,Motor,3.27,Tidak,UKT 6
+M0632,12743026,4,PNS,Milik Sendiri,381999,Motor,2.08,Tidak,UKT 6
+M0633,8747752,4,Wiraswasta,Menumpang,91743,Mobil,2.41,Tidak,UKT 4
+M0634,18364557,1,Swasta,Rumah Dinas,220948,Mobil,3.85,Tidak,UKT 6
+M0635,6695200,6,PNS,Rumah Dinas,70323,Mobil,2.73,Ya,UKT 2
+M0636,4477266,1,PNS,Rumah Dinas,573293,Motor+Mobil,2.21,Ya,UKT 2
+M0637,6058956,4,Petani,Menumpang,328572,Mobil,3.4,Tidak,UKT 3
+M0638,18120739,6,Petani,Kontrak,608866,Motor,2.6,Tidak,UKT 6
+M0639,9434845,6,Wiraswasta,Milik Sendiri,660774,Motor,2.54,Ya,UKT 3
+M0640,14332640,5,Wiraswasta,Kontrak,551793,Motor,4.0,Tidak,UKT 6
+M0641,4540479,5,PNS,Kontrak,376284,Tidak Ada,3.72,Tidak,UKT 2
+M0642,592193,2,Wiraswasta,Kontrak,681613,Mobil,2.82,Tidak,UKT 1
+M0643,13588862,3,PNS,Kontrak,318508,Motor,3.96,Ya,UKT 6
+M0644,18464103,5,Wiraswasta,Milik Sendiri,441011,Tidak Ada,3.3,Tidak,UKT 6
+M0645,14443554,1,Wiraswasta,Milik Sendiri,478565,Tidak Ada,3.48,Ya,UKT 6
+M0646,19992730,5,Petani,Menumpang,669886,Motor,2.06,Tidak,UKT 6
+M0647,13770321,2,Wiraswasta,Kontrak,226968,Motor,2.24,Tidak,UKT 6
+M0648,3158571,6,Swasta,Kontrak,107062,Motor,3.27,Tidak,UKT 1
+M0649,17189088,2,Swasta,Milik Sendiri,278338,Motor,3.8,Tidak,UKT 6
+M0650,11111677,6,Wiraswasta,Milik Sendiri,277909,Motor,3.25,Tidak,UKT 5
+M0651,7602173,6,Swasta,Menumpang,556995,Motor,2.27,Tidak,UKT 3
+M0652,12334106,3,Swasta,Kontrak,138302,Motor,2.23,Tidak,UKT 6
+M0653,17758896,5,Swasta,Rumah Dinas,638216,Tidak Ada,3.69,Tidak,UKT 6
+M0654,5665679,1,Wiraswasta,Milik Sendiri,615635,Motor,2.28,Tidak,UKT 3
+M0655,15461406,1,Swasta,Kontrak,577409,Motor,3.04,Tidak,UKT 6
+M0656,15181316,4,PNS,Milik Sendiri,133793,Tidak Ada,2.07,Tidak,UKT 6
+M0657,13909108,6,Wiraswasta,Kontrak,602452,Motor,2.16,Tidak,UKT 6
+M0658,4600673,1,Wiraswasta,Milik Sendiri,337635,Tidak Ada,3.34,Tidak,UKT 3
+M0659,2034026,3,PNS,Milik Sendiri,633510,Motor,3.38,Tidak,UKT 1
+M0660,9204434,6,Swasta,Kontrak,578036,Motor,2.68,Tidak,UKT 4
+M0661,15785669,3,PNS,Menumpang,600841,Motor,2.43,Tidak,UKT 6
+M0662,827359,1,Swasta,Milik Sendiri,166547,Mobil,3.63,Ya,UKT 1
+M0663,17251329,1,Swasta,Rumah Dinas,634668,Motor,2.43,Ya,UKT 6
+M0664,17594753,4,Wiraswasta,Milik Sendiri,94331,Motor+Mobil,3.08,Tidak,UKT 6
+M0665,16957553,1,Petani,Milik Sendiri,694905,Motor,3.94,Tidak,UKT 6
+M0666,7453757,6,Petani,Milik Sendiri,650198,Motor,2.3,Tidak,UKT 3
+M0667,1050222,6,Swasta,Milik Sendiri,447891,Motor,3.88,Tidak,UKT 1
+M0668,19850835,6,Wiraswasta,Kontrak,550201,Motor,2.37,Ya,UKT 6
+M0669,2953752,4,Swasta,Milik Sendiri,552237,Motor,3.13,Tidak,UKT 1
+M0670,10820855,4,Tidak Bekerja,Milik Sendiri,60068,Motor,2.75,Tidak,UKT 5
+M0671,18630254,1,Petani,Menumpang,628748,Tidak Ada,3.93,Ya,UKT 6
+M0672,5157693,2,PNS,Milik Sendiri,620706,Tidak Ada,2.55,Tidak,UKT 3
+M0673,1207689,2,Petani,Rumah Dinas,338350,Motor,2.8,Tidak,UKT 1
+M0674,13336402,4,Swasta,Milik Sendiri,72337,Motor,3.97,Tidak,UKT 6
+M0675,10504560,1,Petani,Kontrak,201738,Motor,3.07,Tidak,UKT 6
+M0676,18573732,2,PNS,Milik Sendiri,297667,Tidak Ada,3.01,Tidak,UKT 6
+M0677,14642224,1,PNS,Milik Sendiri,564241,Mobil,2.52,Tidak,UKT 6
+M0678,2354971,1,Wiraswasta,Milik Sendiri,402215,Mobil,3.4,Tidak,UKT 1
+M0679,16545907,1,Swasta,Milik Sendiri,148064,Motor+Mobil,2.03,Ya,UKT 6
+M0680,15403841,5,Wiraswasta,Milik Sendiri,418655,Motor,2.1,Tidak,UKT 6
+M0681,16039973,6,Swasta,Kontrak,532605,Mobil,3.2,Tidak,UKT 6
+M0682,2349396,1,Petani,Menumpang,457974,Mobil,2.68,Tidak,UKT 1
+M0683,16234209,5,Petani,Rumah Dinas,508996,Motor,3.91,Tidak,UKT 6
+M0684,3191276,4,Petani,Kontrak,577466,Motor,3.81,Tidak,UKT 1
+M0685,3026954,2,Swasta,Milik Sendiri,606119,Motor+Mobil,3.43,Tidak,UKT 2
+M0686,7049546,6,Swasta,Milik Sendiri,183248,Motor,3.64,Ya,UKT 2
+M0687,17163288,2,PNS,Milik Sendiri,153306,Motor,3.33,Tidak,UKT 6
+M0688,13581782,6,Swasta,Milik Sendiri,214726,Tidak Ada,2.25,Tidak,UKT 6
+M0689,15382910,2,Petani,Kontrak,424169,Tidak Ada,3.53,Tidak,UKT 6
+M0690,8501482,6,Tidak Bekerja,Kontrak,140417,Mobil,2.42,Tidak,UKT 3
+M0691,10614959,2,Wiraswasta,Milik Sendiri,478638,Motor,2.65,Tidak,UKT 5
+M0692,1572647,2,Wiraswasta,Milik Sendiri,61984,Motor,3.64,Ya,UKT 1
+M0693,2131107,2,Wiraswasta,Rumah Dinas,139312,Tidak Ada,3.07,Tidak,UKT 1
+M0694,9917063,2,Petani,Rumah Dinas,242458,Motor,3.72,Tidak,UKT 5
+M0695,5606563,4,Swasta,Milik Sendiri,133291,Motor,2.43,Tidak,UKT 2
+M0696,8734679,1,Tidak Bekerja,Menumpang,574608,Motor,3.22,Tidak,UKT 5
+M0697,15511932,3,Petani,Menumpang,537387,Mobil,2.17,Tidak,UKT 6
+M0698,19227583,5,Petani,Milik Sendiri,465105,Tidak Ada,3.29,Tidak,UKT 6
+M0699,2410705,3,PNS,Milik Sendiri,410215,Motor,3.53,Tidak,UKT 1
+M0700,2101596,3,Swasta,Kontrak,305083,Motor,3.17,Ya,UKT 1
+M0701,8257202,6,Swasta,Menumpang,684151,Motor,2.53,Tidak,UKT 3
+M0702,6848564,1,Wiraswasta,Menumpang,91777,Mobil,2.06,Ya,UKT 3
+M0703,6223601,6,Petani,Milik Sendiri,96250,Mobil,2.24,Ya,UKT 2
+M0704,17118153,1,Swasta,Milik Sendiri,352274,Mobil,3.24,Ya,UKT 6
+M0705,2882357,1,Tidak Bekerja,Kontrak,525147,Tidak Ada,3.87,Tidak,UKT 2
+M0706,12375732,2,PNS,Kontrak,65216,Tidak Ada,2.41,Tidak,UKT 6
+M0707,8404069,4,Swasta,Milik Sendiri,396293,Motor,3.47,Ya,UKT 3
+M0708,15310624,2,PNS,Menumpang,577297,Motor,3.73,Ya,UKT 6
+M0709,14130084,4,Wiraswasta,Kontrak,195281,Mobil,3.04,Tidak,UKT 6
+M0710,19522347,6,Tidak Bekerja,Rumah Dinas,589317,Mobil,3.34,Ya,UKT 6
+M0711,14281337,4,Swasta,Menumpang,510829,Mobil,3.63,Tidak,UKT 6
+M0712,15928653,6,Wiraswasta,Kontrak,238069,Motor+Mobil,2.52,Ya,UKT 6
+M0713,16599248,3,Swasta,Milik Sendiri,414315,Mobil,2.59,Tidak,UKT 6
+M0714,15177069,3,Tidak Bekerja,Kontrak,164456,Motor,2.0,Tidak,UKT 6
+M0715,8980473,4,Wiraswasta,Milik Sendiri,374703,Motor,3.93,Tidak,UKT 4
+M0716,12933196,4,Wiraswasta,Kontrak,432688,Motor,3.84,Tidak,UKT 6
+M0717,5955770,6,PNS,Milik Sendiri,419484,Tidak Ada,3.53,Tidak,UKT 2
+M0718,1572200,2,Tidak Bekerja,Kontrak,83783,Tidak Ada,2.16,Ya,UKT 1
+M0719,11389464,6,Wiraswasta,Milik Sendiri,84152,Motor,2.9,Tidak,UKT 5
+M0720,12957080,2,Swasta,Milik Sendiri,633029,Mobil,2.2,Tidak,UKT 6
+M0721,1722869,3,Wiraswasta,Milik Sendiri,494718,Tidak Ada,2.03,Ya,UKT 1
+M0722,16108046,1,Swasta,Milik Sendiri,603380,Mobil,3.23,Ya,UKT 6
+M0723,17012055,4,Wiraswasta,Kontrak,198725,Mobil,3.92,Tidak,UKT 6
+M0724,3625354,2,PNS,Kontrak,541215,Motor,3.81,Tidak,UKT 2
+M0725,10318159,6,Wiraswasta,Kontrak,221541,Tidak Ada,3.39,Tidak,UKT 4
+M0726,11645552,3,Petani,Milik Sendiri,398627,Tidak Ada,2.19,Tidak,UKT 6
+M0727,15275321,2,PNS,Milik Sendiri,371898,Mobil,2.55,Tidak,UKT 6
+M0728,5282883,6,Swasta,Milik Sendiri,137592,Mobil,2.64,Tidak,UKT 2
+M0729,7001632,4,PNS,Milik Sendiri,406687,Mobil,3.53,Tidak,UKT 3
+M0730,15652994,4,Swasta,Menumpang,93169,Motor,3.6,Ya,UKT 6
+M0731,8583123,5,Swasta,Milik Sendiri,491503,Tidak Ada,2.77,Tidak,UKT 4
+M0732,14607262,1,Petani,Milik Sendiri,104745,Tidak Ada,2.84,Tidak,UKT 6
+M0733,9806167,5,Swasta,Milik Sendiri,684456,Mobil,2.09,Tidak,UKT 4
+M0734,1135605,3,Swasta,Milik Sendiri,688273,Tidak Ada,2.58,Tidak,UKT 1
+M0735,7979821,2,Wiraswasta,Kontrak,71067,Motor,2.9,Ya,UKT 3
+M0736,5083897,3,PNS,Kontrak,101033,Motor,2.23,Tidak,UKT 2
+M0737,9703739,6,Tidak Bekerja,Milik Sendiri,95256,Tidak Ada,2.91,Ya,UKT 3
+M0738,7913718,4,Wiraswasta,Milik Sendiri,289455,Motor,3.71,Tidak,UKT 3
+M0739,567661,5,Petani,Milik Sendiri,552264,Motor,3.16,Tidak,UKT 1
+M0740,7359991,5,Petani,Milik Sendiri,250417,Motor,2.16,Tidak,UKT 3
+M0741,8085153,5,Wiraswasta,Milik Sendiri,136803,Tidak Ada,2.38,Ya,UKT 3
+M0742,10966615,3,PNS,Menumpang,253814,Mobil,2.95,Tidak,UKT 5
+M0743,1807506,4,PNS,Kontrak,168843,Mobil,2.72,Tidak,UKT 1
+M0744,10859814,2,Swasta,Kontrak,529809,Motor,2.72,Tidak,UKT 5
+M0745,3466422,6,Wiraswasta,Milik Sendiri,603280,Mobil,3.06,Tidak,UKT 1
+M0746,17099789,2,PNS,Milik Sendiri,262603,Motor,3.17,Tidak,UKT 6
+M0747,4208654,3,Petani,Kontrak,623091,Motor,3.59,Tidak,UKT 2
+M0748,618033,6,Tidak Bekerja,Kontrak,422119,Mobil,2.68,Tidak,UKT 1
+M0749,9518873,5,Wiraswasta,Kontrak,194282,Mobil,3.61,Tidak,UKT 4
+M0750,11598917,1,Petani,Milik Sendiri,526545,Mobil,2.68,Tidak,UKT 6
+M0751,6372354,3,PNS,Kontrak,76270,Tidak Ada,2.11,Tidak,UKT 3
+M0752,1715502,3,Wiraswasta,Milik Sendiri,505224,Tidak Ada,3.11,Tidak,UKT 1
+M0753,14702047,4,Petani,Menumpang,581740,Mobil,3.18,Ya,UKT 6
+M0754,16040184,2,PNS,Kontrak,353630,Motor,3.87,Tidak,UKT 6
+M0755,13514646,3,PNS,Kontrak,64859,Motor,3.45,Tidak,UKT 6
+M0756,10310404,3,Tidak Bekerja,Milik Sendiri,606371,Mobil,3.84,Tidak,UKT 5
+M0757,11651387,5,Petani,Kontrak,161462,Mobil,3.82,Tidak,UKT 5
+M0758,19596265,5,Wiraswasta,Milik Sendiri,197735,Mobil,3.21,Tidak,UKT 6
+M0759,6792518,6,Wiraswasta,Milik Sendiri,299737,Motor,3.06,Tidak,UKT 2
+M0760,8087768,1,Petani,Milik Sendiri,331197,Mobil,3.11,Ya,UKT 4
+M0761,2692614,4,Petani,Kontrak,192157,Tidak Ada,3.96,Tidak,UKT 1
+M0762,14530933,1,Swasta,Milik Sendiri,401889,Tidak Ada,3.55,Tidak,UKT 6
+M0763,18047389,6,Swasta,Milik Sendiri,240167,Motor,2.21,Ya,UKT 6
+M0764,11557963,5,Swasta,Menumpang,643805,Tidak Ada,3.56,Ya,UKT 5
+M0765,15711913,2,Wiraswasta,Milik Sendiri,186319,Motor,2.34,Tidak,UKT 6
+M0766,967010,5,Petani,Kontrak,464027,Motor,2.89,Ya,UKT 1
+M0767,2155016,4,Wiraswasta,Milik Sendiri,276453,Motor,2.42,Tidak,UKT 1
+M0768,13469105,5,Swasta,Milik Sendiri,186645,Tidak Ada,3.38,Ya,UKT 5
+M0769,4721038,4,Petani,Rumah Dinas,562035,Motor,3.75,Tidak,UKT 2
+M0770,11011829,4,Petani,Milik Sendiri,653555,Motor,2.58,Tidak,UKT 5
+M0771,4380993,4,Petani,Milik Sendiri,188261,Motor,2.16,Tidak,UKT 2
+M0772,13620110,6,Wiraswasta,Kontrak,392221,Mobil,2.6,Ya,UKT 5
+M0773,14467111,4,Swasta,Kontrak,486862,Mobil,3.34,Tidak,UKT 6
+M0774,3068103,4,Petani,Kontrak,388767,Motor,2.66,Tidak,UKT 1
+M0775,8969872,2,PNS,Milik Sendiri,181004,Mobil,2.56,Tidak,UKT 4
+M0776,8911883,1,Swasta,Milik Sendiri,555187,Tidak Ada,2.37,Tidak,UKT 5
+M0777,11582322,3,Swasta,Kontrak,103687,Motor,3.0,Ya,UKT 5
+M0778,16703305,1,Petani,Kontrak,157615,Mobil,2.55,Tidak,UKT 6
+M0779,11348680,4,Tidak Bekerja,Rumah Dinas,443120,Motor,3.46,Tidak,UKT 5
+M0780,6982532,2,Petani,Rumah Dinas,601852,Motor+Mobil,2.15,Tidak,UKT 3
+M0781,16422693,5,Wiraswasta,Rumah Dinas,581985,Motor,3.33,Ya,UKT 6
+M0782,5696467,2,Petani,Milik Sendiri,654453,Mobil,2.48,Tidak,UKT 3
+M0783,2500609,4,Petani,Milik Sendiri,632111,Motor,2.98,Tidak,UKT 1
+M0784,9801434,2,PNS,Rumah Dinas,583903,Motor,2.57,Tidak,UKT 5
+M0785,19974359,2,Swasta,Milik Sendiri,556554,Motor,3.45,Tidak,UKT 6
+M0786,9692300,4,Swasta,Milik Sendiri,650724,Mobil,3.89,Ya,UKT 4
+M0787,10049765,6,Swasta,Menumpang,432706,Motor,3.83,Tidak,UKT 4
+M0788,18591748,2,PNS,Menumpang,609070,Motor+Mobil,3.17,Tidak,UKT 6
+M0789,17698456,3,PNS,Milik Sendiri,128533,Motor,2.93,Tidak,UKT 6
+M0790,12748352,3,Swasta,Milik Sendiri,290011,Tidak Ada,3.64,Tidak,UKT 6
+M0791,1444789,2,Tidak Bekerja,Milik Sendiri,239327,Motor,3.37,Tidak,UKT 1
+M0792,19490789,6,Swasta,Rumah Dinas,555168,Motor,2.37,Tidak,UKT 6
+M0793,16693014,5,Swasta,Menumpang,122684,Mobil,3.64,Tidak,UKT 6
+M0794,15252367,4,PNS,Milik Sendiri,500134,Motor,2.86,Tidak,UKT 6
+M0795,19532579,3,Petani,Milik Sendiri,266621,Motor,2.38,Tidak,UKT 6
+M0796,8875741,5,Swasta,Menumpang,285295,Motor,2.56,Ya,UKT 3
+M0797,17014877,2,Swasta,Milik Sendiri,607665,Motor,2.54,Tidak,UKT 6
+M0798,5556861,5,Petani,Kontrak,680532,Mobil,3.04,Tidak,UKT 2
+M0799,6936446,1,PNS,Menumpang,597670,Motor,2.47,Tidak,UKT 4
+M0800,4648887,3,PNS,Milik Sendiri,203466,Motor,2.25,Tidak,UKT 2
+M0801,9557014,2,Swasta,Kontrak,284318,Motor+Mobil,2.25,Tidak,UKT 5
+M0802,5112338,4,PNS,Milik Sendiri,422778,Mobil,3.17,Tidak,UKT 2
+M0803,11742014,6,PNS,Milik Sendiri,181936,Motor,3.47,Ya,UKT 4
+M0804,18310471,2,Swasta,Rumah Dinas,697952,Motor,2.64,Ya,UKT 6
+M0805,7582212,4,Wiraswasta,Milik Sendiri,422818,Motor,2.07,Tidak,UKT 3
+M0806,11941374,6,Petani,Menumpang,153533,Motor,2.25,Ya,UKT 4
+M0807,3594235,6,Petani,Kontrak,297997,Mobil,3.83,Tidak,UKT 1
+M0808,14815594,2,Swasta,Milik Sendiri,119590,Motor,2.99,Tidak,UKT 6
+M0809,887952,5,Tidak Bekerja,Milik Sendiri,439919,Motor,2.91,Tidak,UKT 1
+M0810,18307333,5,Swasta,Milik Sendiri,378615,Motor,2.08,Ya,UKT 6
+M0811,2857821,6,PNS,Milik Sendiri,553692,Motor,3.46,Tidak,UKT 1
+M0812,9413742,5,Petani,Milik Sendiri,531530,Tidak Ada,3.06,Ya,UKT 3
+M0813,16763882,1,PNS,Milik Sendiri,565795,Tidak Ada,2.4,Tidak,UKT 6
+M0814,6084263,6,Swasta,Milik Sendiri,355442,Motor,2.22,Tidak,UKT 2
+M0815,744761,6,Petani,Kontrak,506324,Tidak Ada,2.77,Tidak,UKT 1
+M0816,11860428,4,Wiraswasta,Kontrak,294936,Tidak Ada,3.67,Tidak,UKT 5
+M0817,17112651,5,Swasta,Kontrak,623212,Motor,3.73,Ya,UKT 6
+M0818,8886180,6,Wiraswasta,Milik Sendiri,459925,Tidak Ada,3.21,Tidak,UKT 3
+M0819,14960021,1,Tidak Bekerja,Milik Sendiri,59726,Tidak Ada,3.46,Ya,UKT 6
+M0820,564323,4,PNS,Kontrak,241896,Motor,2.23,Tidak,UKT 1
+M0821,15796274,2,Swasta,Milik Sendiri,90542,Motor,3.18,Ya,UKT 6
+M0822,18514931,6,Swasta,Milik Sendiri,463461,Motor,3.33,Tidak,UKT 6
+M0823,8540979,1,Swasta,Rumah Dinas,84753,Tidak Ada,2.4,Tidak,UKT 5
+M0824,1454480,3,Swasta,Rumah Dinas,333460,Mobil,3.76,Tidak,UKT 1
+M0825,18131232,1,Tidak Bekerja,Kontrak,283979,Motor+Mobil,2.39,Tidak,UKT 6
+M0826,5847417,1,Wiraswasta,Milik Sendiri,658986,Mobil,2.63,Tidak,UKT 3
+M0827,9753517,4,Petani,Rumah Dinas,328104,Motor,3.24,Ya,UKT 4
+M0828,6309701,2,Swasta,Kontrak,80791,Mobil,3.28,Tidak,UKT 3
+M0829,13871172,3,Wiraswasta,Rumah Dinas,337360,Motor,3.4,Ya,UKT 6
+M0830,10493726,5,Tidak Bekerja,Rumah Dinas,376571,Tidak Ada,2.22,Tidak,UKT 4
+M0831,1916012,5,Wiraswasta,Rumah Dinas,647578,Motor,3.7,Tidak,UKT 1
+M0832,6252810,1,PNS,Kontrak,621302,Mobil,3.07,Tidak,UKT 3
+M0833,1071650,4,Petani,Milik Sendiri,185150,Motor,2.94,Tidak,UKT 1
+M0834,9274533,4,PNS,Kontrak,100519,Tidak Ada,3.96,Tidak,UKT 4
+M0835,3363793,5,Swasta,Kontrak,623340,Mobil,3.48,Tidak,UKT 1
+M0836,5409047,3,PNS,Kontrak,64389,Mobil,2.24,Ya,UKT 2
+M0837,7381289,2,Petani,Milik Sendiri,408105,Tidak Ada,3.51,Tidak,UKT 4
+M0838,7922212,3,Petani,Milik Sendiri,642399,Motor,2.19,Tidak,UKT 4
+M0839,4257974,6,PNS,Menumpang,207753,Tidak Ada,2.05,Tidak,UKT 1
+M0840,9291689,6,Swasta,Kontrak,663812,Mobil,2.81,Tidak,UKT 4
+M0841,9267500,2,Swasta,Menumpang,393150,Motor,3.99,Ya,UKT 4
+M0842,8791923,5,Swasta,Rumah Dinas,547488,Motor,2.35,Tidak,UKT 4
+M0843,8296324,2,PNS,Kontrak,144913,Mobil,3.35,Tidak,UKT 4
+M0844,12143208,4,Swasta,Kontrak,668396,Motor,2.35,Ya,UKT 5
+M0845,10873904,6,Wiraswasta,Menumpang,319637,Motor,3.45,Tidak,UKT 4
+M0846,8612074,1,PNS,Kontrak,119639,Motor,3.01,Tidak,UKT 5
+M0847,19467438,1,PNS,Kontrak,281452,Motor,3.36,Tidak,UKT 6
+M0848,12638391,5,Swasta,Milik Sendiri,366527,Motor,2.41,Tidak,UKT 6
+M0849,19996485,4,Tidak Bekerja,Milik Sendiri,359378,Tidak Ada,3.49,Tidak,UKT 6
+M0850,11213405,3,Petani,Kontrak,536084,Motor,3.99,Tidak,UKT 5
+M0851,16765147,4,Petani,Milik Sendiri,579882,Motor,3.33,Tidak,UKT 6
+M0852,18063883,1,Swasta,Milik Sendiri,319515,Motor,2.99,Tidak,UKT 6
+M0853,10242257,1,Petani,Milik Sendiri,621603,Motor+Mobil,3.85,Ya,UKT 5
+M0854,14461076,6,PNS,Milik Sendiri,282520,Motor+Mobil,2.03,Tidak,UKT 6
+M0855,18989719,4,Petani,Milik Sendiri,653814,Motor,3.46,Tidak,UKT 6
+M0856,4109736,4,Tidak Bekerja,Milik Sendiri,293459,Motor,3.78,Tidak,UKT 2
+M0857,8560833,1,Petani,Menumpang,287330,Motor,2.12,Tidak,UKT 5
+M0858,7138155,3,Wiraswasta,Kontrak,155573,Mobil,2.9,Tidak,UKT 3
+M0859,18661634,5,Wiraswasta,Milik Sendiri,187900,Motor,2.41,Ya,UKT 6
+M0860,17663810,5,PNS,Milik Sendiri,369658,Motor+Mobil,3.13,Tidak,UKT 6
+M0861,12725855,4,Tidak Bekerja,Kontrak,550364,Motor,3.3,Tidak,UKT 6
+M0862,18369717,5,PNS,Milik Sendiri,555740,Motor+Mobil,2.61,Tidak,UKT 6
+M0863,5738331,1,Petani,Rumah Dinas,285707,Mobil,2.92,Tidak,UKT 3
+M0864,1635964,1,PNS,Kontrak,554917,Mobil,2.56,Tidak,UKT 1
+M0865,2655748,4,PNS,Rumah Dinas,527294,Motor,2.74,Tidak,UKT 1
+M0866,11933787,4,Swasta,Milik Sendiri,573116,Tidak Ada,2.32,Tidak,UKT 5
+M0867,1373172,6,Swasta,Kontrak,504485,Motor,3.77,Ya,UKT 1
+M0868,9410852,4,Swasta,Milik Sendiri,563066,Motor,2.02,Tidak,UKT 4
+M0869,6155378,3,Petani,Menumpang,314179,Tidak Ada,3.76,Tidak,UKT 3
+M0870,5373594,5,PNS,Kontrak,159767,Motor,3.14,Tidak,UKT 2
+M0871,4563309,4,PNS,Milik Sendiri,483961,Motor,2.66,Tidak,UKT 2
+M0872,7441245,2,Petani,Milik Sendiri,591529,Motor,3.45,Tidak,UKT 4
+M0873,16376696,6,Swasta,Milik Sendiri,627263,Motor,3.02,Tidak,UKT 6
+M0874,9951244,2,Wiraswasta,Kontrak,204226,Tidak Ada,3.0,Ya,UKT 4
+M0875,10675529,1,Petani,Milik Sendiri,541818,Motor+Mobil,2.22,Tidak,UKT 6
+M0876,8317304,5,Wiraswasta,Kontrak,106396,Tidak Ada,2.78,Tidak,UKT 3
+M0877,14650033,4,Petani,Milik Sendiri,542443,Motor,2.48,Tidak,UKT 6
+M0878,18106951,2,Swasta,Kontrak,168920,Motor,2.03,Tidak,UKT 6
+M0879,7521862,5,Petani,Rumah Dinas,456547,Mobil,2.72,Ya,UKT 3
+M0880,12718983,1,Swasta,Rumah Dinas,244999,Tidak Ada,2.18,Ya,UKT 6
+M0881,8851245,3,Swasta,Rumah Dinas,660514,Motor,2.51,Tidak,UKT 4
+M0882,5782591,6,Wiraswasta,Milik Sendiri,659007,Motor,2.19,Tidak,UKT 2
+M0883,7983058,5,Swasta,Milik Sendiri,113014,Motor,2.2,Ya,UKT 3
+M0884,19839685,5,Wiraswasta,Kontrak,613634,Motor,2.4,Tidak,UKT 6
+M0885,3586176,3,Wiraswasta,Milik Sendiri,644699,Motor+Mobil,4.0,Tidak,UKT 2
+M0886,5845854,5,Wiraswasta,Milik Sendiri,235550,Motor+Mobil,2.0,Tidak,UKT 2
+M0887,12183982,1,Tidak Bekerja,Milik Sendiri,236806,Tidak Ada,3.28,Tidak,UKT 6
+M0888,16820656,1,Swasta,Milik Sendiri,471837,Motor,2.28,Tidak,UKT 6
+M0889,5383680,3,Swasta,Milik Sendiri,388585,Motor,3.84,Ya,UKT 2
+M0890,4181262,6,Petani,Menumpang,96121,Motor,2.19,Tidak,UKT 1
+M0891,5133078,4,Swasta,Milik Sendiri,372341,Motor,3.91,Tidak,UKT 2
+M0892,3109089,2,Petani,Kontrak,134577,Motor,3.22,Tidak,UKT 2
+M0893,19785965,4,Wiraswasta,Milik Sendiri,406778,Motor+Mobil,2.0,Tidak,UKT 6
+M0894,18191444,5,Petani,Kontrak,299106,Motor+Mobil,3.79,Tidak,UKT 6
+M0895,1453959,2,Swasta,Milik Sendiri,485647,Tidak Ada,3.04,Ya,UKT 1
+M0896,11078023,3,PNS,Menumpang,542461,Motor,2.53,Tidak,UKT 5
+M0897,16764230,3,Swasta,Menumpang,555200,Motor,3.53,Tidak,UKT 6
+M0898,8405477,6,PNS,Milik Sendiri,533241,Motor,3.85,Tidak,UKT 3
+M0899,10516389,2,Wiraswasta,Menumpang,526379,Motor,2.97,Tidak,UKT 5
+M0900,12130982,1,Swasta,Menumpang,522295,Motor,2.63,Tidak,UKT 6
+M0901,17622482,2,PNS,Rumah Dinas,455831,Mobil,3.58,Tidak,UKT 6
+M0902,11960083,5,PNS,Rumah Dinas,575754,Mobil,3.36,Tidak,UKT 5
+M0903,16086926,1,Petani,Milik Sendiri,396030,Motor,3.78,Tidak,UKT 6
+M0904,12892092,3,Petani,Kontrak,378055,Motor,3.39,Tidak,UKT 6
+M0905,14399040,2,Swasta,Milik Sendiri,463962,Motor,2.49,Ya,UKT 6
+M0906,9996563,4,PNS,Milik Sendiri,138422,Motor,3.86,Tidak,UKT 4
+M0907,14534150,6,Swasta,Menumpang,553100,Motor,2.21,Tidak,UKT 6
+M0908,12690618,4,Swasta,Milik Sendiri,385513,Tidak Ada,2.54,Ya,UKT 5
+M0909,14404421,6,Petani,Kontrak,342717,Motor,3.04,Ya,UKT 6
+M0910,10821336,5,Petani,Rumah Dinas,671195,Motor,3.13,Ya,UKT 4
+M0911,17059100,4,Swasta,Menumpang,476583,Motor+Mobil,2.03,Ya,UKT 6
+M0912,8053974,2,Swasta,Menumpang,202271,Motor,3.56,Tidak,UKT 4
+M0913,11250240,2,Tidak Bekerja,Milik Sendiri,403548,Motor,2.72,Tidak,UKT 6
+M0914,10303005,4,Swasta,Milik Sendiri,217477,Motor,2.81,Tidak,UKT 5
+M0915,6597091,2,Petani,Milik Sendiri,279304,Motor,3.62,Tidak,UKT 3
+M0916,13928545,5,PNS,Milik Sendiri,590277,Tidak Ada,2.76,Tidak,UKT 6
+M0917,8205092,1,Swasta,Milik Sendiri,695424,Motor+Mobil,2.09,Tidak,UKT 4
+M0918,8083354,5,PNS,Milik Sendiri,392022,Mobil,2.35,Tidak,UKT 3
+M0919,6313365,6,Petani,Rumah Dinas,402621,Motor,3.91,Tidak,UKT 2
+M0920,4557893,5,Tidak Bekerja,Kontrak,522697,Motor,2.14,Tidak,UKT 2
+M0921,5897662,6,Swasta,Milik Sendiri,679974,Tidak Ada,2.71,Tidak,UKT 2
+M0922,16913486,2,PNS,Kontrak,419430,Motor,3.01,Tidak,UKT 6
+M0923,12106243,1,PNS,Milik Sendiri,528705,Mobil,2.99,Ya,UKT 6
+M0924,17143948,2,Swasta,Milik Sendiri,352619,Tidak Ada,2.01,Tidak,UKT 6
+M0925,11188727,3,PNS,Rumah Dinas,656954,Motor,3.0,Tidak,UKT 5
+M0926,10788051,2,PNS,Kontrak,408766,Motor,2.77,Tidak,UKT 5
+M0927,10328366,6,Wiraswasta,Rumah Dinas,460520,Motor,3.94,Tidak,UKT 4
+M0928,2305468,2,Swasta,Milik Sendiri,157573,Motor+Mobil,2.32,Ya,UKT 1
+M0929,3927975,2,Swasta,Rumah Dinas,319152,Tidak Ada,2.71,Tidak,UKT 2
+M0930,6856228,1,Tidak Bekerja,Kontrak,360435,Mobil,2.84,Ya,UKT 3
+M0931,9014716,2,PNS,Kontrak,208477,Motor,2.78,Tidak,UKT 5
+M0932,12048718,1,Tidak Bekerja,Kontrak,298141,Mobil,3.33,Tidak,UKT 6
+M0933,12118627,4,Swasta,Menumpang,348530,Motor,2.43,Tidak,UKT 6
+M0934,15543403,3,Wiraswasta,Kontrak,665197,Motor,2.44,Ya,UKT 6
+M0935,6025633,1,Petani,Kontrak,201899,Mobil,3.46,Tidak,UKT 3
+M0936,19357370,6,Wiraswasta,Menumpang,634642,Motor,3.0,Tidak,UKT 6
+M0937,2744702,4,Tidak Bekerja,Rumah Dinas,390687,Motor,2.83,Tidak,UKT 1
+M0938,13420739,1,Swasta,Milik Sendiri,592445,Motor,2.34,Ya,UKT 6
+M0939,16227907,1,Tidak Bekerja,Kontrak,609603,Mobil,2.38,Tidak,UKT 6
+M0940,8226890,3,Swasta,Milik Sendiri,348076,Motor,2.02,Tidak,UKT 4
+M0941,8857956,6,Swasta,Milik Sendiri,464380,Motor+Mobil,2.18,Ya,UKT 3
+M0942,8704298,5,Swasta,Kontrak,182018,Motor,3.11,Tidak,UKT 4
+M0943,9951337,5,Petani,Menumpang,339385,Motor,3.78,Tidak,UKT 4
+M0944,3886501,1,PNS,Menumpang,145790,Mobil,2.57,Tidak,UKT 2
+M0945,10867687,2,Petani,Milik Sendiri,646543,Motor,2.66,Tidak,UKT 5
+M0946,7895350,6,Petani,Kontrak,222275,Mobil,2.23,Tidak,UKT 3
+M0947,5088334,4,Wiraswasta,Milik Sendiri,311439,Motor+Mobil,2.78,Tidak,UKT 2
+M0948,8964685,2,Wiraswasta,Menumpang,61350,Motor,2.07,Tidak,UKT 4
+M0949,1755564,2,Swasta,Menumpang,368953,Tidak Ada,3.84,Tidak,UKT 1
+M0950,9430264,6,Swasta,Kontrak,151894,Tidak Ada,3.35,Tidak,UKT 4
+M0951,11173774,1,Swasta,Rumah Dinas,409701,Mobil,3.98,Tidak,UKT 6
+M0952,10940139,1,PNS,Kontrak,486048,Mobil,3.77,Tidak,UKT 6
+M0953,3292427,1,PNS,Kontrak,606016,Motor,2.95,Tidak,UKT 2
+M0954,11809411,1,Swasta,Milik Sendiri,329720,Tidak Ada,3.04,Tidak,UKT 6
+M0955,6248035,5,Swasta,Milik Sendiri,472217,Tidak Ada,2.38,Tidak,UKT 2
+M0956,4890020,1,Tidak Bekerja,Kontrak,570841,Mobil,2.92,Tidak,UKT 3
+M0957,3181719,5,Petani,Kontrak,133384,Motor,3.81,Tidak,UKT 1
+M0958,18167911,5,Swasta,Milik Sendiri,50390,Motor,2.1,Ya,UKT 6
+M0959,13083038,1,Petani,Menumpang,530751,Motor,3.73,Ya,UKT 6
+M0960,18115977,3,PNS,Milik Sendiri,585857,Mobil,2.68,Tidak,UKT 6
+M0961,10188053,4,Swasta,Kontrak,456245,Motor,3.8,Tidak,UKT 5
+M0962,9387324,2,Petani,Kontrak,72490,Motor,3.88,Tidak,UKT 5
+M0963,12029677,5,Swasta,Kontrak,544080,Tidak Ada,3.34,Ya,UKT 5
+M0964,19836488,6,Swasta,Kontrak,655108,Motor,3.33,Ya,UKT 6
+M0965,16363509,6,Tidak Bekerja,Milik Sendiri,411659,Mobil,2.91,Ya,UKT 6
+M0966,19553322,4,Wiraswasta,Milik Sendiri,321265,Motor+Mobil,3.67,Ya,UKT 6
+M0967,17091661,6,Petani,Kontrak,51539,Motor,3.92,Ya,UKT 6
+M0968,7075716,3,Petani,Kontrak,460243,Tidak Ada,3.55,Tidak,UKT 3
+M0969,2502324,6,Petani,Milik Sendiri,439546,Tidak Ada,3.24,Tidak,UKT 1
+M0970,6762105,2,Swasta,Kontrak,362579,Motor,3.21,Tidak,UKT 3
+M0971,13215629,2,Swasta,Milik Sendiri,565584,Mobil,3.7,Tidak,UKT 6
+M0972,7171318,5,PNS,Kontrak,113965,Tidak Ada,3.08,Tidak,UKT 3
+M0973,17771808,1,Swasta,Rumah Dinas,565249,Motor,3.61,Ya,UKT 6
+M0974,12134494,3,Petani,Milik Sendiri,423192,Motor,3.02,Ya,UKT 5
+M0975,14299990,5,Swasta,Milik Sendiri,382066,Tidak Ada,2.12,Tidak,UKT 6
+M0976,4078226,3,Tidak Bekerja,Rumah Dinas,147799,Motor,2.77,Tidak,UKT 2
+M0977,2927540,1,Tidak Bekerja,Kontrak,143948,Motor,2.89,Tidak,UKT 2
+M0978,18992846,6,Wiraswasta,Kontrak,526055,Motor,2.28,Tidak,UKT 6
+M0979,818408,6,Petani,Rumah Dinas,193314,Mobil,2.2,Tidak,UKT 1
+M0980,9356884,1,Wiraswasta,Rumah Dinas,298099,Motor,3.07,Tidak,UKT 5
+M0981,11043305,5,PNS,Menumpang,305821,Tidak Ada,2.17,Tidak,UKT 5
+M0982,9772985,1,Wiraswasta,Kontrak,360929,Motor+Mobil,2.61,Tidak,UKT 5
+M0983,2398739,4,PNS,Milik Sendiri,510188,Motor,3.49,Tidak,UKT 1
+M0984,18294649,2,Wiraswasta,Milik Sendiri,61618,Mobil,3.93,Tidak,UKT 6
+M0985,5161029,5,Swasta,Milik Sendiri,386430,Tidak Ada,3.44,Ya,UKT 1
+M0986,11649697,3,Wiraswasta,Kontrak,328266,Tidak Ada,3.99,Tidak,UKT 6
+M0987,14257649,4,Tidak Bekerja,Milik Sendiri,660724,Tidak Ada,3.4,Tidak,UKT 6
+M0988,18858746,5,PNS,Menumpang,260448,Tidak Ada,2.59,Tidak,UKT 6
+M0989,13927105,1,Swasta,Kontrak,545919,Motor,3.34,Tidak,UKT 6
+M0990,19364474,1,Tidak Bekerja,Kontrak,186109,Motor+Mobil,3.4,Tidak,UKT 6
+M0991,5356447,1,Swasta,Milik Sendiri,78633,Motor,2.74,Tidak,UKT 3
+M0992,7357658,1,Wiraswasta,Milik Sendiri,262456,Motor,2.04,Tidak,UKT 4
+M0993,1496530,3,Petani,Milik Sendiri,348627,Motor,3.41,Tidak,UKT 1
+M0994,19878839,4,Swasta,Milik Sendiri,425325,Tidak Ada,2.04,Tidak,UKT 6
+M0995,6731219,6,Swasta,Milik Sendiri,516589,Motor,3.26,Tidak,UKT 2
+M0996,11792148,2,Swasta,Kontrak,346213,Motor,2.33,Tidak,UKT 6
+M0997,3864695,3,Wiraswasta,Menumpang,188442,Mobil,3.13,Ya,UKT 1
+M0998,13466064,3,Swasta,Menumpang,694161,Motor+Mobil,3.01,Tidak,UKT 6
+M0999,11080030,6,Petani,Kontrak,121947,Motor,2.03,Tidak,UKT 5
+M1000,18322698,6,Swasta,Milik Sendiri,220205,Motor,2.73,Tidak,UKT 6
