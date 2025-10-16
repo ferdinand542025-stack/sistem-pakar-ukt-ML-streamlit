@@ -1,6 +1,23 @@
 # 🤖 Sistem Pakar Penentuan UKT berbasis Machine Learning - Decision Tree
 
-Description of the app ...
+# 🎓 Sistem Pakar Penentuan UKT Menggunakan Machine Learning (Python + Streamlit)
+
+Repositori ini berisi proyek penelitian metodologis untuk membangun sistem pakar berbasis *machine learning* menggunakan **Python**, **scikit-learn**, dan **Streamlit**, guna memprediksi **Uang Kuliah Tunggal (UKT)** mahasiswa berdasarkan kondisi sosioekonomi.
+
+---
+
+## 🚀 Fitur Utama
+- Data dummy realistis (1000 data mahasiswa)
+- Preprocessing otomatis (scaling + one-hot encoding)
+- Model: Random Forest Classifier
+- Evaluasi akurasi dan laporan klasifikasi
+- Aplikasi antarmuka interaktif berbasis Streamlit
+- Interpretasi probabilitas hasil prediksi
+
+---
+
+## 📂 Struktur Folder
+
 
 ## Demo App
 
